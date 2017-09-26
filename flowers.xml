@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE flowers [
+<!ELEMENT flowers (flower+)>
+<!ELEMENT flower (Name,Kingdom,Division,Class,Order,Family,Subfamily?,Genus,Species,Zoological_name,Found_in,Other_names,Description,Other_species,Location,Cultivation_methods,Medicinal_uses,Other_uses,Cultural_importance)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Kingdom (#PCDATA)>
+<!ELEMENT Division (#PCDATA)>
+<!ELEMENT Class (#PCDATA)>
+<!ELEMENT Order (#PCDATA)>
+<!ELEMENT Family (#PCDATA)>
+<!ELEMENT Subfamily (#PCDATA)>
+<!ELEMENT Genus (#PCDATA)>
+<!ELEMENT Species (#PCDATA)>
+<!ELEMENT Zoological_name (#PCDATA)>
+<!ELEMENT Found_in (#PCDATA)>
+<!ELEMENT Other_names (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Other_species (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Cultivation_methods (#PCDATA)>
+<!ELEMENT Medicinal_uses (#PCDATA)>
+<!ELEMENT Other_uses (#PCDATA)>
+<!ELEMENT Cultural_importance (#PCDATA)>
+]>
+
+<flowers>
+	<flower>
+		<Name>Lotus</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Proteales </Order>
+		<Family>Nelumbonaceae </Family>
+		<Genus>Nelumbo </Genus>
+		<Species>N. nucifera </Species>
+		<Zoological_name>Nelumbo nucifera </Zoological_name>
+		<Found_in>Bandhavgarh National Park, Eravikulam National Park</Found_in>
+		<Other_names>Ambal, Thamarai, Suriya kamal, Padma, Ambuja, Pankaja, Blue Lotus, Indian Lotus, Sacred Water lily, bean of India, Kamala, Kanwal, Kamal are the other names used for the Lotus</Other_names>
+		<Description>Lotus is the water plant. It has broad floating leaves and bright fragrant flowers. The leaves and flowers float and have long stems that contain air spaces. It has many petals overlapping in the symmetrical pattern. The root functions of the Lotus are carried out by rhizomes that fan out horizontally through the mud below the water. The round leaves are upto 50 cm in diameter. The flowers are rosy pink with little bit of white shade. The seeds are hard and dark brown in colour. They can vary in shape from round to oval to oblong. The Lotus Flower opens in the morning and the petals fall in the afternoon</Description>
+		<Other_species>Nymphaea caerulea is the other specie of Lotus</Other_species>
+		<Location>Lotus is found throughout India. It is widely found in the Bandhavgarh National Park, Eravikulam National Park in India</Location>
+		<Cultivation_methods>Lotus is mostly propagated through the seeds. It is grown in the damp soil. It requires Sunlight atleast six hours a day. The Lotus plant should be fertilized regularly for one year. It is important to protect Lotus from freezing. It should be given proper light</Cultivation_methods>
+		<Medicinal_uses>Lotus seeds are classified as astringent and benefits kidney, spleen, and heart. The astringent helps loss of kidney essence. The seeds are used to treat weak sexual function in men and leukorrhea in women. The seeds also helps in curing restlessness, palpitation and insomnia. Inside the seed is the green embryo the benefits the heart. The Lotus disorders are helpful in heart and liver disorders. It is prescribes as an antidote for mushroom poisoning. The leaves are used in combination with the other herbs to treat sunstroke, dysentery, fever and vomiting blood</Medicinal_uses>
+		<Other_uses>The seeds of the Lotus are edible. The leaf and leaf stalk are eaten as vegetable in India. The tubers of the Lotus taste like the sweet potato. Its petals are used for garnish and the large leaves are used as the wrap for the leaves. Its seeds called Phool Mukhana are used in the Indian cooking</Other_uses>
+		<Cultural_importance>Lotus is the sacred flower of India. It occupies a special position in the art and mythology of ancient India. It is also the National Flower of India. It symbolizes divinity, fertility, wealth and knowledge. In India it is considered as the symbol of triumph. As it is rooted in the mud it can survive to regerminate for thousand of years. It represents long life, honour and good fortune. For Hindus it has special significance as it used in their religious practices. It is even the sacred flower for the Buddhists in India. It is quote in puranic veds and literature many times</Cultural_importance>
+	</flower>	
+	<flower>
+		<Name>Rose</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Rosales</Order>
+		<Family>Rosaceae </Family>
+		<Subfamily>Rosoideae</Subfamily>
+		<Genus>Rosa l </Genus>
+		<Species></Species>
+		<Zoological_name></Zoological_name>
+		<Found_in>Valley of Flowers and Mahim National Park </Found_in>
+		<Other_names>Dublin Bay, Impatient, Quing, Gul, Gulbahar, Hravart, Roosevelt, Vartan, Arrosa, Aygul, Oklahoma Hulthemosa, Hesperrhodos, Platyrhodon, Banksianae, Carolinae, Pimpinellifoliae , Rosa, Laevigatae, Gymnocarpae are some of the other names of the Rose plant</Other_names>
+		<Description>There are several varieties of the Indian Roses which includes white rose, pink rose, maroon rose, red rose, yellow rose and orange rose. It has thorn on its stems. The cane has leaves and budeyes. A leaf consists of stipule, petiole, and leaflets. The leaves are -15 cm long. The leaflets usually have the segrrated margins and few small prickles on the underside Rose plantof the stem. Most of the roses are deciduous. The flower has five petals</Description>
+		<Other_species>Rosa acicularis, Rosa x alba, Rosa pendulina, Rosa anemoniflora, Rosa arkansana, Rosa arvensis, Rosa nutkana, Rosa gigantea, Rosa omeiensis, Rosa oxyacantha, Rosa palutris, Rosa nutkana, Rosa gigantea, Rosa sharardii, Rosa oxyacantha, Rosa palustris Re some of the related species of Rose. There are more than 120 species of Roses pant</Other_species>
+		<Location>Roses are found inn almost all the parts of India. They are widely grown in the Valley of Flowers and Mahim Nature Park </Location>
+		<Cultivation_methods>Rose plants are propagated by the seeds, cuttings, layers and by budding. Roses require loamy, well drained soil. Budding is considered as the best method for propagating rose plants. They are planted in the circular pits about 60- 90 cm across and 60 -75 cm deep. Remove all the broken and bruised leaves while planting the plant. Roses require atleast six hours of direct sunlight for the growth. The best time to plant the Rose plants rests between September to October. The rose plant needs cutting from time to time. It requires manures and fertilizers at the time of planting</Cultivation_methods>
+		<Medicinal_uses>Gulkand made by the mixture of Rose petals and white sugar in equal proportion acts as the tonic and laxative. Hips, the fruit of roses are the good source of Vitamin C. Rose petals are used to make skin healthy and glowing. It cures dry and patchy skin. The rose scent has been used in pill making for centuries. Its herbal tea is used in the treatment of cold and cough</Medicinal_uses>
+		<Other_uses>Dried Rose petals called Pankhuri are used during the hot weather for preparing cool drinks. Roses are also used in the preparation of rose water and rose vinegar. Rose hips are sometime eaten. They are used for making herbal tea, jam and jellies. Rose plantss are generally used for beautifying the gardens and walkways. Rose petals are used in cooking, which increases its flavour and make it even more delicious. Relaxing therapies with rose smells are used in candles, lotion, bath oils and perfumes</Other_uses>
+		<Cultural_importance></Cultural_importance>
+	</flower>
+	<flower>
+		<Name>Marigold</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Asrerales</Order>
+		<Family>Calenduleae </Family>
+		<Genus>Calendula</Genus>
+		<Species></Species>
+		<Zoological_name></Zoological_name>
+		<Found_in>Valley of Flowers, Ranthambore National Park</Found_in>
+		<Other_names>Caltha, Ganda, Gols bloom, Garden Marigold, Gold bloom, Holligold, Marybud, Pot Marigold are the other names used for the Marigold</Other_names>
+		<Description>It flowers from July to September. The scented flowers are hermaphrodite (have both male and female organs). It is hardy to zone 6 and is frost tender. The lower leaves are broad and spatula shaped. Upper leaves may be oblong, are smooth at the edges, and are arranged alternately along the stem. Seeds are crescent to horseshoe shaped with the rough exterior. Its branching stem grows to the height of 30- 60 cm</Description>
+		<Other_species>Calendula arvensis, Calendula bicolor, Calendula eckerleinii, Calendula lanzae, Calendula maderensis, Calendula maroccana, Calendula meuselii, Calendula stellata, Calendula suffruticosa, Calendula tripterocarpa, Calendula officinalis are some of the other species of Marigold</Other_species>
+		<Location>Marigold is cultivated throughout India. It is widely grown in the Valley of Flowers, Ranthambore National Park in India</Location>
+		<Cultivation_methods>Marigold plant is propagated by the seeds. They are shown during the early spring. Marigold does not need cultivation but the soil should be free from the weeds. The seeds should be shown 2cm apart. Seeds should be planted in the sunny locations. Fertilizers should be added from time to time. They require damp to wet soil for the growth. The seeds are germinated in two to three weeks. It needs full sunlight for its growth</Cultivation_methods>
+		<Medicinal_uses>Marigold is used for stomach upset, ulcers, menstrual period problems, eye infections, inflammations, and for wound healing. It is antiseptic. If the Marigold flower is rubbed on the affected part, it brings relief in pain and swelling caused by a wasp or bee. A lotion made from the flowers is most useful for sprains and wounds and a water distilled from them is good the sore eyes. The infusion of the freshly gathered flowers is beneficial in fever. Marigold flowers are mostly in demand foe children ailment. Externally it is used in the treatment of alopecia. Internally it is used to treat bladder and kidney problems, blood in the urine, uterine bleeding and many more</Medicinal_uses>
+		<Other_uses>Bright yellow and orange Marigold flowers are used to make garlands. They are even used to decorate the religious places. The leaves of its flowers are used as salads. Yellow dye has also been extracted from the flower, by boiling. The burning herb repels insects and flies. Pigments in the Marigold are sometimes extracted and used as the food colouring for humans and livestock</Other_uses>
+		<Cultural_importance>It is offered to the god and Goddess on the Durga Puja</Cultural_importance>
+	</flower>
+	<flower>
+		<Name>Bougainvillea</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Caryophyllales</Order>
+		<Family>Nyctaginaceae </Family>
+		<Genus></Genus>
+		<Species></Species>
+		<Zoological_name>Bougainvillea glabra</Zoological_name>
+		<Found_in>Sultanpur National park, Kanha National Park and Eravikulam National Park </Found_in>
+		<Other_names>Paper flower is the other name used for the Bougainvillea</Other_names>
+		<Description>Bougainvillea is a popular woody scandent shrub. It grows to the height of 10 -15 feet. The flowers are classic red, purple, orange, white, pink and cream, which bloom all year. The leaves are ovate, rich green or variegated, colourful bracts surrounding small tubular flowers. The woody trunk tends to be twisted and the stem have sharp thorns and dark green leaves. The fruit is narrow five lobed achene</Description>
+		<Other_species>Bougainvillea buttiana, Bougainvillea peruviana, Bougainvillea spectabilis, and Bougainvillea spinosa are some of the other related species of the Bougainvillea</Other_species>
+		<Location>It grows in tropical and sub tropical forests in India. It is also found in Sultanpur National park, Kanha National Park and Eravikulam National Park in India</Location>
+		<Cultivation_methods>Bougainvillea plant can be propagated through the semi ripe cuttings, hardwood cuttings or layers. Cuttings should be planted in the shady areas until they produce the roots. It needs fertilizers and well drained soil for its growth. It requires full Sun for its growth. It needs very little water once established. It must be fertilized every month. It should be watered properly in the summers and kept dry in the winters</Cultivation_methods>
+		<Medicinal_uses></Medicinal_uses>
+		<Other_uses></Other_uses>
+		<Cultural_importance></Cultural_importance>
+	</flower>
+	<flower>
+		<Name>Jasmine</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Lamiales</Order>
+		<Family>Oleaceae </Family>
+		<Genus>Jasminum </Genus>
+		<Species></Species>
+		<Zoological_name>Jasminum sambac (L.) Aiton</Zoological_name>
+		<Found_in>Nagarhole National Park</Found_in>
+		<Other_names>Moghra, Kundumalligai, Arabian Jasmine. Mallika are some of the other names used for the Jasmine. In India Jasmine is called the 'Moonshine in the garden'</Other_names>
+		<Description>Jasmine is a evergreen semi vining shrub. It grows to the height of 8- 10 feet. The flower is about one inch. It has oval green rich leaves, which have five to nine leaflets. Each leaflet is 2-3 inches long. Jasmine flowers are white in colour. Its stems are slender, trailing, green and glaborous</Description>
+		<Other_species>Jasminum amplexicule, Jasminum angulare, Jasminum angusgustifolium, Jasminum arborescens, Jasminum atttenuatum, Jasminum auriculatum, azoricum, Jasminum bessianum, Jasminum cinnamomifolium, Jasminum coffeinum, Jasminum crabibianum, Jasminum cuspidatumkmkm are some of the related species of the Jasmine plant</Other_species>
+		<Location>Jasmine plant is found in almost all the parts of India. They are widely grown in the Nagarhole National Park in India</Location>
+		<Cultivation_methods>It is propagated through the softwood cuttings, semi hard wood cuttings and through simple layering. It needs water regularly. It is mostly propagated in the summer season. It is planted 6 inches deep inside the soil. It requires moist and well drained soil. Remove the weeds present inside the soil before planting the tree. The soil should consists of cow dung before planting the Jasmine plant. It requires frequent pruning for its fast growth. It needs warm temperature and proper watering from time to time. It grows in full Sun to partial shade. It should be fertilized in a month period. Jasmine Plant should be kept at least eight feet apart in order to save the later growth of the plant from jamming together. Tips of the plants should be pinched to stimulate lateral growth and frequent prunning. Younger plants should be tied with the stems to give a fairly heavy support</Cultivation_methods>
+		<Medicinal_uses>The Jasmine flower is used for removing intestinal worms and is also used for jaundice and venereal diseases. The flower buds are useful in treating ulcers, vesicles, boils, skin diseases and eye disorders. The leaves extracts against breast tumours. Drinking Jasmine tea regularly helps in curing cancer. Its oil is very effective in calming and relaxing</Medicinal_uses>
+		<Other_uses>Jasmine oil is used used for making perfumes and incense. Its flowers are used to flavour Jasmine tea and other herbal or black tea. Its oil is also used in creams, shampoos and soaps. In India Jasmine flowers are stringed together to make garlands. Women in India wear this flower in their hair. Some communities even use this flower to cover the face of the bridegroom</Other_uses>
+		<Cultural_importance>In India the Jasmine plant is related to Lord Shiva and Lord Vishnu. Jasmine flowes are used in the religious offerings</Cultural_importance>
+	</flower>
+	<flower>
+		<Name>Orchid</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Liliopsida</Class>
+		<Order>Asparagales</Order>
+		<Family>Orchidaceae</Family>
+		<Genus></Genus>
+		<Species></Species>
+		<Zoological_name>Oncidium sphacelatum</Zoological_name>
+		<Found_in>Namdapha National Park, Mahim Nature Park, Simlipal National Park and Singhalila National Park</Found_in>
+		<Other_names>Dancing ladies, dancing dolls, Butterflies orchids are some of the popular names of the Orchids</Other_names>
+		<Description>Orchids are divided into two basic growth types, namely monopodial and sympodial. Monopodial orchids have a central stem which grows continuously from the tip. They have no pseudobulbs, but produce new growth from the crown of the plant. Flowers are produced from the stem between the leaves, usually alternately from side to side. Sympodial orchids possess a rhizome which sends out a shoot. This develops into a stem and leaves and eventually produces flowers. In time, from the base of this growth, a new shoot develops and so on in a continuous cycle. The buds are often, though not always, protected by a sheath</Description>
+		<Other_species>Vanda coerulea, Arundina , Cymbidium, Coelogyne, Dendrobium, Paphiopedilum, Renanthera, Acanthephippium sylhetense, Anoectochilus sikkimensis, Aphyllorchis montana, arachnanthe clarkei, Arundina graminifolio, Cymbidium macrorhizon, Dendrobium densiforum, Didiciea cunninghamii, Eria crassicaulis, Galeola lindleyana, Gastrodia Exilis, Paphiopedilum fairanum, P. druryi, Pleione humilis, Renanthera imschootiana, V. pumila, V. roxburghi </Other_species>
+		<Location>Orchids are found in almost all the parts of India. They are widely grown in the Namdapha National Park, Simlipal National Park and Singhalila National Park in India</Location>
+		<Cultivation_methods>Orchid flowers are propagated through the seeds. These flowers need lots of attention and accurate climatic conditions. Orchids need atleast 60%of humidity. If the orchids are grown inside than they do not need much sunlight. But there should be proper ventilation. Orchids need watering from time to time. They prefer fertilizers almost every week. Orchids need hot temperature for its growth. They flower regularly</Cultivation_methods>
+		<Medicinal_uses>The indigenous people of Nilgiris consume the dried and powered tubulers of the terrestrial orchids as an energizing tonic</Medicinal_uses>
+		<Other_uses>Its roots are edible and are cooked</Other_uses>
+		<Cultural_importance></Cultural_importance>
+	</flower>
+</flowers>

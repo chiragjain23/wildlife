@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<animals>
+	<animal>
+		<Name>Sambar_Deer</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Suborder>Ruminantia</Suborder>
+		<Family>Cervidae</Family>
+		<Subfamily>Cervinae</Subfamily>
+		<Genus>Cervus</Genus>
+		<Species>C. unicolor </Species>
+		<Zoological_name>Cervus unicolor </Zoological_name>
+		<Found_in>Kanha, Corbett, Ranthambore, Bandhavgarh, Gir, Dudhwa, Manas, Kaziranga National Park in India </Found_in>
+		<Physical_appearence>Sambar deed stands to a height of 135 -150 cm at the shoulder and can weigh up to 300 kg. Males have antlers measuring up to 1m. Its coat is dark brown in colour. It is characterized with large muzzle and broad ears. It has tick fur and orange spots on its body. Males are larger than the females. Its tail is 22- 35 cm long. Males have thick mane of hairs around the neck</Physical_appearence>
+		<Presence>Sambar deer is found in almost every corner of India, But it is mainly found in the central India. They can easily be spotted at Kanha, Corbett, Ranthambore, Bandhavgarh, Gir, Dudhwa, Manas, Kaziranga and Sariska</Presence>
+		<Habitat>Sambar Deer prefers marshy and wooded areas to live</Habitat>
+		<Diet>Sambar deer feeds on leaves, vegetation, herbs, fruit, bamboo buds and mushrooms</Diet>
+		<Reproduction>The breeding period is mainly during the months of November and December. The gestation period rests for almost 6 months after which single offspring is born. The young ones are weaned at about 7 months of age</Reproduction>
+		<Conservation_status>Least concern</Conservation_status>
+		<Lifespan>The life expectancy of Sambar Deer exceeds up to 16 -20 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Bengal Tiger</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Carnivora</Order>
+		<Family>Felidae</Family>
+		<Genus>Panthera</Genus>
+		<Species>P.tigris </Species>
+		<Subspecies>P. t. tigris</Subspecies>
+		<Zoological_name>Panthera tigris tigris</Zoological_name>
+		<Found_in>Corbett, Manas, Bandipur, Sariska, Kanha, Ranthambore and Sundarbans National Park. </Found_in>
+		<Physical_appearence>Royal Bengal Tigers are 6 - 9 feet long and weigh around 400- 600 pounds. They have large head, big ears and thick whickers. Its fur are reddish gold in colour. They have stripes all over their body. Males are usually larger than the females. Their tail is 3 feet long. They have large padded paws with retractable claws. They have white spot on the back of their ears, which looks like eyes. Bengal Tigers have great vision and strong sense of smell</Physical_appearence>
+		<Presence>Royal Bengal Tigers are easily found in the jungles of West Bengal, Madhya Pradesh, Assam, Rajasthan, Orissa, Uttar Pradesh and Tamil Nadu. They are also spotted in some of the major National Parks and Wildlife Sanctuaries of India such as Corbett, Manas, Bandipur, Sariska, Kanha, Ranthambore and Sundarbans National Park</Presence>
+		<Habitat>Royal Bengal Tigers prefers dense forests and lush grasslands</Habitat>
+		<Diet>Bengal Tigers are carnivorous. They feed on large variety of mammals such as deer, antelope, pigs, buffaloes, humans, wild boars, gaurs, hares, monkeys, wild ox, langur, peacocks, wolves, crocodiles, dholes and many more</Diet>
+		<Reproduction>Bengal Tiger reach the level of sexual maturity in 3- 4 years of age. They usually mate during the spring season. Gestation period rests for 95 -112days after which the tigress give birth to two to four cubs</Reproduction>
+		<Conservation_status>Highly endangered</Conservation_status>
+		<Lifespan>Lifespan of the Royal Bengal Tigers exceeds up to the 15 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Neelgai</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Bovidae</Family>
+		<Subfamily>Bovinae</Subfamily>
+		<Genus>Boselaphus</Genus>
+		<Species>B. tragocamelus </Species>
+		<Zoological_name>Boselaphus tragocamelus </Zoological_name>
+		<Found_in>SariskaTiger Reserve, Ranthambore National Park and Sultanpur Bird Sanctuary </Found_in>
+		<Physical_appearence>Neelgai is 6- 7 feet long and weigh around 120 -240 kg. They are 4- 5 feet tall. They have erectile mane on the nape and back and the hair pennant in the middle of the underside of the neck. They have white spot on their cheeks, lips and throat Along the underside is a thin white stripe, which "balloons" at the rear. They have long and slender head. Males have 8 -10 inch long horns. It has relatively small horns. Their tail is 40- 45 cm long.Male coat is gray blue and female coat is yellow brown in colour</Physical_appearence>
+		<Presence>Neelgai are widely found in the jungles of Karnataka, Rajasthan, West Bengal, Assam and Haryana. They are also commonly seen in some of the National parks and wildlife Sanctuaries such as Sariska, Ranthambore, Panna and Sultanpur.</Presence>
+		<Habitat>Neelgai prefers to live in open plains, woodlands, dense jungles and grasslands</Habitat>
+		<Diet>Neelgai feeds on plants, seeds, branches, leaves, fruit, flowers, stems and buds</Diet>
+		<Reproduction>Neelgai reach the level of sexual maturity in 18 months. They do not have any specific breeding season. The gestation period rests for 275 days. Usually twins are born at a time. Young ones weigh around 30 -35 pounds</Reproduction>
+		<Conservation_status>Declared by the IUCN as being at low risk of extinction</Conservation_status>
+		<Lifespan>Neelgai lives up to 20- 30 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Rhino</Name>
+		<Kingdom>Animalia </Kingdom>
+		<Phylum>Chordata </Phylum>
+		<Class>Mammalia</Class>
+		<Order>Perissodactyla</Order>
+		<Family>Rhinocerotidae</Family>
+		<Genus>Rhinoceros</Genus>
+		<Species>R. unicornis</Species>
+		<Zoological_name>Rhinoceros unicorn </Zoological_name>
+		<Found_in>Kaziranga National Park and Bandhavgarh National Park in India</Found_in>
+		<Physical_appearence>ndian Rhinoceros is silver brown in colour and has folds all over its body. Both male and female rhinoceros have one horn. Males weigh around 2200 kg while the females weigh around 1600 kg. Male rhino is 1.8 m tall while the females are 1.6 m tall. They do not have hairs on their body. Their horn is 20 -61 cm long. It has well developed incisor teeth and two long canine teeth in its lower jaw. They have poor eyesight</Physical_appearence>
+		<Presence>Indian Rhinos are mostly found in the North eastern parts of India especially Assam and the foothills of the Himalayas. Indian Rhinos can also be spotted in the Kaziranga and Bandhavgarh National Park in India</Presence>
+		<Habitat>Indian Rhinos prefers tropical bush lands, riverine grasslands, marshy low lands and reed beds</Habitat>
+		<Diet>Indian Rhinoceros is herbivorous. They feed on fruits, twigs, leaves, cultivated crops, shrubs and aquatic plants</Diet>
+		<Reproduction>Females attain sexual maturity at 4 years of age and the males attain the sexual maturity at 8 years of age. They mate throughout the year. Gestation period rests for 462- 491 days after which the female give birth to single rhino calf. New born do not have horn. They are weaned around 18 months</Reproduction>
+		<Conservation_status>Endangered species</Conservation_status>
+		<Lifespan>Lifespan of the Indian Rhinos is about 47 years.</Lifespan>
+	</animal>
+	<animal>
+		<Name>Indian Elephant</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Proboscidea</Order>
+		<Family>Elephantidae</Family>
+		<Genus>Elephas</Genus>
+		<Species>E. maximus</Species>
+		<Zoological_name>Elephas maximus </Zoological_name>
+		<Found_in>Manas, Cobett and Periyar National Park in India</Found_in>
+		<Physical_appearence>The average height of the Indian Elephant is estimated to be about 7 to 12 feet and weighs anything between 3,600 kg to 5000 kg. The length of their head and body is around 550 to 640 cm and shoulder height is 250 to300 cm. They have thick and dry skin. The colour of their skin varies from grey to brown. They have smaller ears which are straight at the bottom, an arched back and a single finger like proturbance that is located at the tip of the trunk. Their brain weigh around 5kg.They have unique modified incisor teeth known as tusks. Their heart beat 28 times a minute. They are considered as the endangered species</Physical_appearence>
+		<Presence>The Indian Elephants are found in the wild in the dense forested areas of India including tropical forests of South India, North East India and the Sub Himalayan Region. Manas, Corbett, Dalma and Palamu, Bandipur and Nagarhole, Periyar and Madumalai are the best places to watch the Asian Elephants in its natural habitat</Presence>
+		<Habitat>Indian Elephants live in different habitat in open grassland, marshes and savannas. They can also be found in jungles, water sources and mountainous regions</Habitat>
+		<Diet>The Indian Elephants mostly feeds on a wide variety of grasses. They are also dependent upon cultivated crops, bark, root, twigs, fruits and leaves. They are one among the herbivorous animals. An adult elephant can consume up to 300 pounds of food in a single day</Diet>
+		<Reproduction>There is no specific mating season for the Indian Elephants. Both males ans females become sexually mature at about 14 years of age. The gestation period is usually 20- 22 months and the females have the capability of giving birth to a calf in every four to five years. At birth elephants can be one meter tall and weigh around ninety kilograms. They can stand soon after the birth. Female elephants supervise their young ones for several years after weaning</Reproduction>
+		<Conservation_status>he population of the Indian Elephants lies somewhere between 38,000 and 51,000. They have been continuously haunted by the people for the food, for ivory and for the domestic stock. They have suffered the great habitat loss due to the deforestation and agriculture</Conservation_status>
+		<Lifespan>Lifespan of the Indian Elephants is about 70 years</Lifespan>
+	</animal>
+	<animal>
+		<Name>Indian Leopard</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Carnivora</Order>
+		<Family>Felidae</Family>
+		<Genus>Panthera</Genus>
+		<Species>P. pardus </Species>
+		<Zoological_name>Panthera pardus </Zoological_name>
+		<Found_in>Corbett National Park, Kaziranga National Park and Sariska Tiger Reserve</Found_in>
+		<Physical_appearence>Their head is larger than their body. Male weigh around 91 kg and the females weigh around 60 kg. It has long dark tail measuring 3 feet. Males are usually larger than the females. The leopard's coat has a background color of pale, cream-yellow on its underside that darkens slightly to an orange-brown on its back. It has short eyes and broad paws. They have dark spots on their face, head, throat, chest, and legs. The rest of their body is covered in "rosettes"</Physical_appearence>
+		<Presence>Indian Leopards are easily spotted in the Corbett National Park, Kaziranga National Park and Sariska Wildlife Sanctuary</Presence>
+		<Habitat>Indian Leopards prefer dry deciduous forests, desert ecosystems, tropical rainforests and northern coniferous forests</Habitat>
+		<Diet>Indian Leopards are carnivorous. They feed on monkeys, rodents, reptiles, amphibians, birds, fish, wild pigs, wild boars and many more</Diet>
+		<Reproduction>Indian Leopards mate through out the year. Females give birth to two cubs per litter. Cubs are weaned at about 4 months of age. New born open up their eyes between eight to tenth day of the birth</Reproduction>
+		<Conservation_status>Critically endangered</Conservation_status>
+		<Lifespan>Indian Leopards live up to the 21 -23 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Indian Lion</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Carnivora</Order>
+		<Family>Felidae</Family>
+		<Genus>P.leo</Genus>
+		<Species>P. l. persica </Species>
+		<Zoological_name>P. l. persica </Zoological_name>
+		<Found_in>Gir Wildlife Sanctuary and Lion Sanctuary in India</Found_in>
+		<Physical_appearence>Indian Lion is 8 -9 feet long and weighs around 200- 250 kg. It is 2.5 – 2.9 m tall. It has a majestic mane and a big tail tuft. It has large elbows. Total length of their tail ranges from 70 -105 cm</Physical_appearence>
+		<Presence>Indian Lions are mostly found in North western and central parts of India and are easily spotted in the Gir Wildlife Sanctuary and the Lion Sanctuary</Presence>
+		<Habitat>Indian Lion prefers grasslands, shrub and open deciduous forests</Habitat>
+		<Diet>Indian Lion is carnivorous and feeds on Nilgai, Wild pig, Chital, Sambar, goats and camels</Diet>
+		<Reproduction>Indian Lions reach the level of sexual maturity in 3- 4 years of age. Their breeding season rests between October to November. The gestation period rests for 31 – 2 months after which the females give birth to 3- 4 cubs</Reproduction>
+		<Conservation_status>Critically endangered. They are being widely killed by the tribal people for meat</Conservation_status>
+		<Lifespan>Longevity of the Indian Lion exceeds to 12 – 16 years. Females have longer lifespan than the males</Lifespan>
+	</animal>
+	<animal>
+		<Name>Himalayan Tahr</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata </Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Bovidae</Family>
+		<Subfamily>Caprinae</Subfamily>
+		<Genus>Hemitragus</Genus>
+		<Species>H. jemlahicus </Species>
+		<Zoological_name>Hemitragus jemlahicus </Zoological_name>
+		<Found_in>Jim Corbett National Park in India</Found_in>
+		<Physical_appearence>Himalayan Tahr are 3- 4.5 feet long and weigh around 36-90 kg. They are 26 – 40 inches tall. They have small head and relatively short legs. They have large eyes and small as well as pointed ears. They have triangle shaped horns, curved abruptly backwards and than inwards. In winters Tahr has dense, reddish to dark brown woolly coat with a thick undercoat. In the spring they lose much of their coat, and it becomes lighter in color</Physical_appearence>
+		<Presence>Himalayan Tahr is found in the Southern parts of India.Himalayan mountains from Bhutan to Kashmir. They are also spotted in the Jim Corbett National Park</Presence>
+		<Habitat>Himalayan Tahr prefers mountain slopes and mountain woodlands of the Himalayas </Habitat>
+		<Diet>Himalayan Tahr are herbivorous. They feed on grasses , leaves, vegetation, shrubs and trees</Diet>
+		<Reproduction>Himalayan Tahr reach the level of sexual maturity at 2-3 years of age. They usually mate during the winter season. Gestation period rests for seven months. Normal number per litter is one or two. They are weaned at about 6 months</Reproduction>
+		<Conservation_status>The Himalayan tahr is considered vulnerable by the IUCN (1996) in its home range of the Himalayas</Conservation_status>
+		<Lifespan>Himalayan Tahr can live up to the 22 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Indian Camel</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Camelidae</Family>
+		<Genus>Camelus</Genus>
+		<Species>Camelus bactrianus, Camelus dromedarius, Camelus gigas, Camelus hesternus, Camelus sivalensis</Species>
+		<Zoological_name>Camelus bactrianus </Zoological_name>
+		<Found_in>Kaziranga and Desert National Park in India</Found_in>
+		<Physical_appearence>Indian Camel is 6 feet long and weighs around 700 kg. It is 7 feet high from its hump. It tail is 50 cm long. It is characterized by long curved neck, large mouth and high hump. They are usually brown or black in colour. Camel's nasal passages are properly covered with the large muscular nostrils. Camels have thin, long and powerful legs. They have large eyes with long eyelashes and bushy eyebrows.but small ears. Indian camels have broad, flat and leathery pads with two toes on each foot with leathery patches on their knees</Physical_appearence>
+		<Presence>India Camel is mostly found in the North Western part of India.They are also spotted in the Kaziranga and Desert National Park</Presence>
+		<Habitat>Camels mostly prefer dry places</Habitat>
+		<Diet>Camels are herbivorous. They feed on grass, grains, wheat, oats, dried leaves, and seeds . As their humps contain fat, they can go without food for 3-4 days</Diet>
+		<Reproduction>Camels reach the level of sexual maturity at 4-5 years of age. The gestation period lasts for 13 months after which the a single calf is born. The calves start walking within two hours of birth</Reproduction>
+		<Conservation_status>IUCN Red List of Threatened species</Conservation_status>
+		<Lifespan>Camel lives up to the 40 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Gaur</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Bovidae</Family>
+		<Genus>Bos</Genus>
+		<Species>B.gaurus</Species>
+		<Zoological_name>Bos gaurus </Zoological_name>
+		<Found_in>Bandipur National Park, Kaziranga Natioanl Park and Manas National Park in India</Found_in>
+		<Physical_appearence>Gaurs are 8.3 to 12 feet long. Males weigh around 1000- 1500 kg and the females weigh around 700 – 1000 kg. Males Gaurs are larger than the female Gaurs. Males are dark brown while the females are rust coloured. They have white colour legs. Length of their tail exceeds to 70- 100 cm</Physical_appearence>
+		<Presence>Gaurs are found in the forested areas of Karnataka, Assam and other parts of India . They are also spotted a Bandipur,Kaziranga and Manas National park in India</Presence>
+		<Habitat>Gaur prefers to live in the mountainous regions in evergreen, deciduous and savanna forests</Habitat>
+		<Diet>Gaurs are herbivorous. They feed on grass, leaves, plants, creepers, herbs, bamboo</Diet>
+		<Reproduction>Gaur reach the sexual maturity in 2- 3 years. Gestation period rests for 275 days. Females give birth to one calf. Gaurs breed during the summer season. Females reach the sexual maturity in 3 years, while the males take longer time to reach sexual maturity</Reproduction>
+		<Conservation_status>The gaur is classified as vulnerable (Criteria: A1cd+2cd, C1+2a) by the IUCN (2002), and is on Appendix I of CITES [excluding the domestic B. f. frontalis] (2003)</Conservation_status>
+		<Lifespan>Lifespan of the Gaur is upto 30 years</Lifespan>
+	</animal>
+	<animal>
+		<Name>Golden Jackal</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Carnivora</Order>
+		<Family>Canidae</Family>
+		<Genus>Canis</Genus>
+		<Species>C.aureus </Species>
+		<Zoological_name>Canis aureus </Zoological_name>
+		<Found_in>Bandhavgarh National Park and Bandipur National Park in India</Found_in>
+		<Physical_appearence>Golden Jackal are 70- 85 cm long and weigh around 8 -10 kg. They are golden yellowish in colour with a reddish tail having a black tip. The tail itself measures upto 9 -14 inches. It has white mark on its throat and the back of the ears is darker in colour. Males are usually larger than the females</Physical_appearence>
+		<Presence>Golden Jackal are found in Kutch , Maharashtra, Rajasthan and Haryana.It can also be spotted in the Bandhavgarh and Bandipur National Park</Presence>
+		<Habitat>Golden Jackal are found in the variety of habitats. They are mostly spotted in the semi- desert, evergreen forests, savannas and agricultural areas</Habitat>
+		<Diet>Golden Jackal are omnivorous. They feed on small mammals, insects, hares, fish, birds and fruits</Diet>
+		<Reproduction>Gestation period rests for nine weeks. Females give birth to 3-6 pubs. During pregancy males go out in search of food and the females rest at home. They weigh around 200 -250 g at birth. They open their eyes in about ten days. They are weaned in 4- 6 weeks. The females are sexually mature than in less than a year, the males closer to the two years</Reproduction>
+		<Conservation_status>Not threatened</Conservation_status>
+		<Lifespan>Golden Jackal lives upto 14-16 years of age</Lifespan>
+	</animal>
+	<animal>
+		<Name>Chital</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata</Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Cervidae</Family>
+		<Subfamily>Cervinae</Subfamily>
+		<Genus>Axis</Genus>
+		<Species>A. axis </Species>
+		<Zoological_name>Axis axis</Zoological_name>
+		<Found_in>Corbett National park, Kanha National Park, Bandhavgarh National Park and Sariska Tiger Reserve</Found_in>
+		<Physical_appearence>Chital are 90 cm tall and weigh up to 85 kg. Its upper parts are reddish fawn and the under parts are white in colour. It has white spots all over the body. Antlers are present in males only that may exceed up to 75 cm. They shed them anually. Their antlers have six point plan. They are tuned back into the upward curve and have three points each. These antlers are used in mating displays and for the purpose of protection. They have white patch on the throat. They have a black dorsal stripe that run down their backs. They are good swimmers</Physical_appearence>
+		<Presence>They are easily found in the jungles of India. They are easily spotted in the wild parks of India such as Corbett, Kanha, Dudhwa, Bandhavgarh, Mudumalai, Sariska</Presence>
+		<Habitat>Chital prefers terrestrial, woodland, forests and clearings near water ways. They are usually found in the herds of 10 - 20 individuals</Habitat>
+		<Diet>Chital mainly feeds on grasses and browsed vegetation. They also favours wheat, fruits, herbs, flowers and leaves. They feed for four hours after sunrise and for two hours before sunset</Diet>
+		<Reproduction>Chital reach the sexual maturity at 12 -14 months. Gestation lasts for seven months. Mating season of the Cheetal or Axis Deer varies geographically. Estrus in females occur throughout the year. Females give birth to one to three fawns. Fawns are born throughout the year. Young ones are weaned at 6 months</Reproduction>
+		<Conservation_status>Not threatened. Deforestation and loss of habitat has seriously declined the population of Chital. They are widely haunted for games. Their main threats are wild dogs and leopards</Conservation_status>
+		<Lifespan>Lifespan of the Chital is around 20 -30 years.</Lifespan>
+	</animal>
+	<animal>
+		<Name>Boar</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata </Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Suidae</Family>
+		<Genus>Sus</Genus>
+		<Species>S. scrofa </Species>
+		<Subspecies>Sus scrofa scrofa (western Africa, Europe), Sus scrofa ussuricus (northern Asia and Japan), Sus scrofa cristatus (Asia Minor, India), Sus scrofa vittatus (Indonesia) </Subspecies>
+		<Zoological_name>Sus scrofa</Zoological_name>
+		<Found_in>Sariska Tiger Reserve, Bandhavgarh National Park, Corbett National Park in India</Found_in>
+		<Physical_appearence>Boar is basically grayish black in colour The average height of the Boar reaches upto 9 feet and weight up to 900 Ibs. It has a pair of elongated canines that grow upward and outward. Boar has a long tail with the total length of 15- 40 cms. They have straight ears and can hear very well but on the other hand they do not have very good eyesight. They have a strong and well built body. Boars are good swimmers</Physical_appearence>
+		<Presence>Wild boar is found in all kinds of jungles in India. They can also be spotted in some of the National Parks and Wildlife Sanctuary such as Sariska Tiger Reserve, Bandhavgarh National Park, Corbett National Park and Ranthambore National Park</Presence>
+		<Habitat>Boars usually choose red beds, shrub or forest areas near ponds or streams to live</Habitat>
+		<Diet>Boar eat seeds, roots, tubers, fruits, nuts, carrion, eggs, mushroom, bugs, insects, acorns, hickory nuts, Pecans or even dead animals</Diet>
+		<Reproduction>All though the Boar mates through out the year but winter season is considered as the best mating season for the Boars. The gestation period rests for 112 – 130 days. The boar can have 14 babies in a litter. Mother build a ground nest of grass and sticks for her young ones. Her babies live their for around one week. New ones are born with light brown fur that has white stripes from head to tail. Within 45 days young ones are able to food for themselves, but remains under the mothers eye. The new born are not fully developed up to the age of four to five years. Boar reach the sexual maturity at 18 months</Reproduction>
+		<Conservation_status>Boars are haunted for food and for the production of the brushes.</Conservation_status>
+		<Lifespan>The lifespan of the boar exceeds up to the age of 21 years</Lifespan>
+	</animal>
+	<animal>
+		<Name>Black Buck</Name>
+		<Kingdom>Animalia </Kingdom>
+		<Phylum>Chordata </Phylum>
+		<Class>Mammalia</Class>
+		<Order>Artiodactyla</Order>
+		<Family>Bovidae</Family>
+		<Subfamily>Antilopinae</Subfamily>
+		<Genus>Antilope Pallas</Genus>
+		<Species>A. cervicapra </Species>
+		<Subspecies>Antelope cervicapra cervicapra, Antelope cervicapra rajputanae, Antelope cervicapra centrali and Antelope cervicapra rupicapra</Subspecies>
+		<Zoological_name>Antilope cervicapra </Zoological_name>
+		<Found_in>Corbett,Bandhavgarh, Velavadar and Kanha National Park in India.</Found_in>
+		<Physical_appearence>Adult male Black Buck have black and white fur. Upper part of the body is black, while the under part and a ring around the eyes is white in colour. Even the fawns have these markings. The males are born lighter in colour, but turns darker at maturity. The females are usually hornless. Males have 24 inches long horns, which are twisted in tight spiral. They are about five feet long and weigh about 85 pounds. Males are dark brown in colour, while the young ones and females are light brown in colour. Black Bucks have the capacity to run 50 miles per hour. It is one of the fastest animal in the world</Physical_appearence>
+		<Presence>Black Buck are commonly found in Punjab, Rajasthan, Haryana, Gujrat, and parts of Central India. They are also easily spotted at the Corbett , Bandhavgarh, Velavadar and Kanha National Park in India</Presence>
+		<Habitat>Black Buck live in open plains, grass lands, dry thorn and scrub lands. They live in herds of 20- 30 individuals</Habitat>
+		<Diet>Black Buck are herbivorous. They prefer eating Grasses, fruits, pods, flowers, shrubs and herbs</Diet>
+		<Reproduction>Male Black Buck attain sexual maturity in 3 years and the female black buck in approximately 2 years. Females attain sexual maturity much faster than the females. Males hold their nose up and place their horns parallel to their back, to attract the females during the mating season. Gestation period rests for ten months. Mating season of the Black Buck rests from August to October and March to April. Females can give birth twice in the 14 months to one or two young ones at a time. Young ones remain with their mother up to the age of one year. Males remains in sexual excitement throughout the year</Reproduction>
+		<Conservation_status>Black Buck is an highly endangered species. Wildlife parks and zoos are breeding this beautiful species to increase its population. Black buck is one of 26 species of mammals, which have been declared endangered. Poaching and habitat destruction has seriously affected the population of the Black Bucks. It is usually haunted for its skin, flesh and also for sports. It is also haunted for meat. Black Buck also holds the cultural importance in Hinduism and Buddhism. In the 19 th and 20 th century Black Buck was the most haunted animal all over India</Conservation_status>
+		<Lifespan>Few Black Bucks live more than 12 years. Lifespan of the Black Buck is about 16 years.</Lifespan>
+	</animal>
+	<animal>
+		<Name>Bengal Fox</Name>
+		<Kingdom>Animalia</Kingdom>
+		<Phylum>Chordata </Phylum>
+		<Class>Mammalia</Class>
+		<Order>Carnivora</Order>
+		<Family>Canidae</Family>
+		<Genus>Vulpes</Genus>
+		<Species>V . Bengalensis</Species>
+		<Zoological_name>Vulpes bengalensis </Zoological_name>
+		<Found_in>Bandhavgarh, Bandipur and Sundarbans National Park in India</Found_in>
+		<Physical_appearence>Bengal Fox is a medium size fox. The colour of their coat is buff orange with paler underparts and black tip on its tail. It has reddish brown fur. Their head and body length is 45- 60 cm and weigh around 3- 4 kg. Tail length is 25 -30 cm. They have long sharp pointed canines and well developed molar teeth. Bengal Fox has relatively long ears. It has brown legs and black lips</Physical_appearence>
+		<Presence>Bengal Fox is found in the foot hills of the Himlayas and the southern parts of India. It is also spotted in the Bandhavgarh, Bandipur and Sundarban national Park</Presence>
+		<Habitat>The Bengal Fox inhabits semi arid regions, thorny shrubs, open grasslands, forests, mountains and near human settlements</Habitat>
+		<Diet>The Bengal fox feeds on insects, reptiles, birds, eggs, crabs, termites, fruit, melons and small mammals</Diet>
+		<Reproduction>The gestation period lasts for 51- 53 days. Females give birth to 3-6 cubs, which weigh 50 – 100 g. Mating season of the Bengal Fox is not known. They usually live in pairs but hunt alone</Reproduction>
+		<Conservation_status>Least Concern. People haunt Bengal Fox for its flesh and skin. They are also haunted for sports. Its body parts are used in the traditional medicines. Loss of its grassland habitat has seriously declined its population on Earth</Conservation_status>
+		<Lifespan>Life expectancy of the Bengal fox is up to 10 years or more</Lifespan>
+	</animal>
+</animals>

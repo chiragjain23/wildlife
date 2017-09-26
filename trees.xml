@@ -1,0 +1,422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE trees [
+<!ELEMENT trees (tree+)>
+<!ELEMENT tree (Name,Kingdom,Subkingdom?,Division,Class,Subclass?,Order,Family,Subfamily?,Tribe?,Subtribe?,Genus,Species*,Zoological_name,Found_in,Other_names,Description,Other_species*,Location,Cultivation_methods,Medicinal_uses*,Other_uses,Cultural_importance*)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Kingdom (#PCDATA)>
+<!ELEMENT Subkingdom (#PCDATA)>
+<!ELEMENT Division (#PCDATA)>
+<!ELEMENT Class (#PCDATA)>
+<!ELEMENT Subclass (#PCDATA)>
+<!ELEMENT Order (#PCDATA)>
+<!ELEMENT Family (#PCDATA)>
+<!ELEMENT Subfamily (#PCDATA)>
+<!ELEMENT Tribe (#PCDATA)>
+<!ELEMENT Subtribe (#PCDATA)>
+<!ELEMENT Genus (#PCDATA)>
+<!ELEMENT Species (#PCDATA)>
+<!ELEMENT Zoological_name (#PCDATA)>
+<!ELEMENT Found_in (#PCDATA)>
+<!ELEMENT Other_names (#PCDATA)>
+<!ELEMENT Description (#PCDATA)>
+<!ELEMENT Other_species (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Cultivation_methods (#PCDATA)>
+<!ELEMENT Medicinal_uses (#PCDATA)>
+<!ELEMENT Other_uses (#PCDATA)>
+<!ELEMENT Cultural_importance (#PCDATA)>
+]>
+<trees>
+	<tree>
+		<Name>BanyanTree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Urticales</Order>
+		<Family>Moraceae</Family>
+		<Genus>Ficus</Genus>
+		<Zoological_name>Ficus Benghalensis </Zoological_name>
+		<Found_in>Ranthambore National Park and Corbett National Park </Found_in>
+		<Other_names>Bargad, Bor, Ber, Ala and Pedda mari, Nayagrodha, Ala mara, Bar, Vad, Vatnam, Bahupada, Peddamarri, Al are the other names used for the Banyan tree. Indians call it a wish fulfilling tree</Other_names>
+		<Description>Banyan tree is a huge tree with very extensive branches. It is said that at one time more than 10, 000 people can sit under its shade at one time. It is a evergreen tree. It branches spread out and send trunk like roots to the ground in order to support itself. It grows to a height of more than Banyan Tree21 meters and lives for many years. The leaves are 10 -20 cm long and has many aerial roots. The leaves are broad, oval and glossy. White milky fluid oozes out of leaves, if broken. It can grow in to the gaint tree covering several hectares</Description>
+		<Other_species>F. aurea, F. benghalensis, F. citrifolia, F. macrophylla, F. microcarpa, F.pertusa, F. rubiginosa are the other related species of the Banyan tree</Other_species>
+		<Location>Found in almost all the parts of India, Banyan tree is the National tree of India. It is grown throughout the sub- Himalayan region and in the deciduous forests. One can Banyan Tree in the Botanical Garden of Calcutta. They are widely grown in the Ranthambore National Park and Corbett National Park in India</Location>
+		<Cultivation_methods>Banyan tree is easily propagated by root tip cuttings or the eye cuttings. Cut apiece of the stem about half a inch below and above the leaf. Insert the stem piece and a little of the leaf stalk into the rooting medium. To reduce evaporation from the leaf surface, you can roll the leaf and secure with a rubber band. In a couple weeks roots and a new shoot will start developing. It can grow in any type of soil</Cultivation_methods>
+		<Medicinal_uses>The Banyan tree also has several medicinal properties. Its leaf, bark, seeds and fig are used for the variety of disorders like diarrhea, polyuria, dental, diabetes and urine disorders. The wood of the Banyan tree is used in making door panels, boxes and the other items. Its bark is used for making paper and ropes. The milky latex that comes from its leaves and stems is used in many Ayurvedic medicines</Medicinal_uses>
+		<Other_uses>In India its edible leaves are used as the plates. It is planted for the soil conservation. Wood is used for well curbs, door panels, boxes, furniture etc. It is suitable for paper pulp. The wood of the aerial roots is stronger and is used for the tent poles and cart yokes</Other_uses>
+		<Cultural_importance>Banyan tree is respected and is considered as sacred by the people in India. In the sacred Hindu Book 'Bhagwad Gita' Lord Krishna has sung praises on the Banyan tree. People in India grow Banyan tree closer to the Peepal tree. As Banyan tree is considered as the male plant closely related to the Peepal tree. It symbolize Trimurti with Vishnu as the barl, Shiva as the branches and Brahma as the roots. Indians considered Banyan tree as 'Kalpa Vriksha' the tree that fulfill all your wishes.The mighty Banyan Tree is considered as immortal and has always been the focal point for the village communities in India. It is probably the biggest and friendliest of all trees. Banyan tree is the tree of knowledge and tree of life</Cultural_importance>
+	</tree>	
+	<tree>
+		<Name>Tulsi Plant</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Lamiales</Order>
+		<Family>Lamiaceae</Family>
+		<Genus>Ocimum</Genus>
+		<Species>O. tenuiflorum</Species>
+		<Zoological_name>Ocimum Sanctum</Zoological_name>
+		<Found_in>Gir National Park and Sasangir National Park</Found_in>
+		<Other_names>It is known as Holy Basil in English and Tulasi in Sanskrit. Other names used for the Tulsi are Manjari, Krishna Tulsi, Trittavu, Tulshi and Thulsi</Other_names>	
+		<Description>Tulsi is a heavy branched having hair all over. It attains the height of about 75 – 90 cm. It has round oval shaped leaves which are up to 5 cm long. The leaves are 2- 4 cm in length. Its seeds are flat. Its flowers are purple – creamish in colour. The Tulsi with the green leaves is called the Shri Tulsi and one with the reddish leaves is called the Krishna Tulsi. Its seeds are yellow to reddish in colour. Leaves of Tulsi contains very essential oil</Description>
+		<Other_species>Ocimum canum (Ram tulsi or Kali Tulsi), Ocimum basilicum, Ocimum Kilmand, Ocimum scharicum are the other related species of the Tulsi (Ocimum Sanctum)</Other_species>
+		<Location>Tulsi is widely grown in the Gir Wildlife Sanctuary and Sasangir National Park in India. Tulsi grows wild in tropics and warm regions</Location>
+		<Cultivation_methods>Tulsi seeds germinate easily. The seeds are mainly sown in the spring season. They are watered from time to time and germinated in one to two weeks. Tulsi prefers rich soil for its growth. It requires full sunlight. It is mainly grown in the temperate climate</Cultivation_methods>
+		<Medicinal_uses>Tulsi has got the great medicinal value. Tulsi is taken as the herbal tea. The oil extracted from the Karpoora Tulsi is mostly used in the herbal toiletry. Its oil is also used against the insects and bacteria. The Rama Tulsi is the effective remedy for the Severe acute Respiratory Syndrome. Juice of its leaves gives relief in cold, fever, bronchitis and cough. Tulsi oil is also used as the ear drop. Tulsi helps in curing malaria. It si very effective against indigestion, headache, hysteria, insomnia and cholera. The fresh leaves of Tulsi are taken by the million of people everyday. For over the centuries Tulsi (the queen of herbs) has been known for its remarkable healing properties</Medicinal_uses>
+		<Other_uses>Many people wears the Tulsi beads, which is said to have certain physical and medicinal properties. Its wood is considered as more powerful than any other gem that helps in protecting one from the negative influences. One can also buy several handicraft jewellery items made of Tulsi wood</Other_uses>
+		<Cultural_importance>Tulsi is the sacred plant dearer to the Lord Vishnu. Tulsi symbolises purity. It is considered as the holy plant in the Indian Subcontinent. Tulsi got its name from Tulasi Devi, who was one of Lord Krishna's eternal consorts. In India people grow Tulsi as the religious plant and worship it. Its leaves are used in temples for the worship purposes and also on the several occasions such as marriage. A Hindu house is considered incomplete without the Tulsi plant in the courtyard. Tulsi is belived to promote longevity and life long happiness. Hindus perform special Tulsi puja in the Kartik month which starts after Sharad Poornima. It is the time of the Tulsi vivah (marriage). On this day Tulsi is decorated and coloured as a bride.Even today people in India maintain a potted Tulsi plant. The womens water the plant, light up the diya near it and worships it daily. The stems, leaves, seeds and even the soil is considered as holy. According to the ancient texts Tulsi is glorified as the one who helps in bringing people closer to the divine</Cultural_importance>
+	</tree>
+	<tree>
+		<Name>Peepal Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida </Class>
+		<Order>Rosales</Order>
+		<Family>Moraceae </Family>
+		<Genus>Ficus</Genus>
+		<Species>F. religiosa </Species>
+		<Zoological_name>Ficus religiosa</Zoological_name>
+		<Found_in>Ranthambore Wildlife Sanctuary </Found_in>
+		<Other_names>Bo tree, Bodhi tree, Sacred tree, Beepul tree, Pipers, Pimpal, Jari, Arani,Ashvattha, Ragi, Bodhidruma, Shuchidruma, Pipalla, Ashvattha and the Buddha tree are the other names used for the Banyan tree.</Other_names>
+		<Description>Peepal is a large, fast growing deciduous tree. It has a heart shaped leaves. It is a medium size tree and has a large crown with the wonderful wide spreading branches. It shed its leaves in the month of March and April. The fruits of the Peepal are hidden with the figs. The figs are ripen in peepal-treethe month of May. The figs which contain the flowers grow in pairs just below the leaves and look like the berries. Its bark is light gray and peels in patches. Its fruit is purple in colour. It is one of the longest living trees</Description>
+		<Other_species>Artocarpus heterophyllus Lam, Artocarpus incissus L., Artocarpus nobilis Thw. Are some of the other species of the Peepal tree.</Other_species>
+		<Location>Peepal tree is grown throughout India. It is mainly grown in State of Haryana, Bihar, Kerala and Madhya Pradesh. It is also found in the Ranthambore National Park in India. </Location>
+		<Cultivation_methods>Peepal tree is easily propagated through the seeds or through the cuttings. It can grow in any type of soil. Young peepal needs proper nourishment. It requires full sunlight and proper watering.</Cultivation_methods>
+		<Medicinal_uses>This tree of life has also got the medicinal value. The juice of its leaves extracted by holding them near the fire can be used as the ear drop. Its power bark has been used to heal the wounds for years. The bark of the tree is useful in inflammations and glandular swelling of the neck. Its root bark is useful for stomatitis, clean ulcers, and promotes granulations. Its roots are also good for gout. The roots are even chewed to prevent gum diseases. Its fruit is laxative which promotes digestion and checks vomiting. Its ripe fruits are good for the foul taste, thirst and heart diseases. The powered fruit is taken for Asthma. Its seeds have proved useful in urinary troubles. The leaves are used to treat constipation.</Medicinal_uses>
+		<Other_uses>People in India collect the Peepal leaves, clean them, dry them and than paint them with the gold acrylic in order to preserve them for years. From the bark of the Peepal tree reddish dye is extracted. Its leaves are used to feed the camels and the elephants. When the leaves are dried they are used for the decoration purpose.</Other_uses>
+		<Cultural_importance>Peepal tree has the great importance in India especially among the Buddhist who regard Peepal tree as the personification of Buddha. Lord Buddha attained enlightenment mediating under the Peepal tree. It is regarded as the sacred tree and the people uses its leaves for the religious purposes. According to the Buddha – 'He who worships the Peepal tree will receive the same reward as if he worshiped me in person'. The Peepal tree has its own symbolic meaning of Enlightenment and peace. People tie threads of white, red and yellow silk around it to pray for progeny and rewarding parenthood. Hindus in India holds the great spiritual regard for the Peepal Tree, they regard it as the tree beneath which Vishnu was born. </Cultural_importance>
+	</tree>	
+	<tree>
+		<Name>Neem Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Sapindales</Order>
+		<Family>Meliaceae</Family>
+		<Genus>Azadirachta</Genus>
+		<Species>A. indica</Species>
+		<Zoological_name>Azadirachta indica </Zoological_name>
+		<Found_in>Ranthambore National Park, Bandhavgarh national Park, Mrugavani Naional Park, Bannerghata National Park, Sariska Wildlife sanctuary and Guindy National Park.</Found_in>
+		<Other_names>It is popularly known as the miracle tree. It is known as Nimba in India. The Sanskrit name of Neem is Arishtha meaning the reliever of the sickness. Margosa tree</Other_names>
+		<Description>It is a tall evergreen tree with the small bright green leaves. It is up to 100 feet tall. It blossoms in spring with the small white flowers. It has a straight trunk. Its bark is hard rough and scaly, fissured even in small trees. The colour of the bark is brown grayish. The leaves are alternate and consists of several leaflets with serrated edges. Its flowers are small and white in colour. The loive like edible fruit is oval, round and thin skinned.</Description>
+		<Other_species>A. juss, A. azedarac are the other related species of Neem tree. A. juss, A. azedarac are the other related species of Neem tree. A. juss, A. azedarac are the other related species of Neem tree.</Other_species>
+		<Location>Neem tree is found throughout India. It is a popular village tree. Although it is also widely grown in Ranthambore National Park, Bandhavgarh national Park, Mrugavani Naional Park, Bannerghata National Park, Sariska Wildlife Sanctuary and Guindy National Park.</Location>
+		<Cultivation_methods>Neem tree can easily be grown in the dry, stony, shallow and clayey soils. It needs very little water and plenty of sunlight. It grows slowly during the first year of planting. It can be propagated through the seeds and cuttings. Young neem tree can not tolerate excessive cold.</Cultivation_methods>
+		<Medicinal_uses>The indigenous people of Nilgiris consume the dried and powered tubulers of the terrestrial orchids as an energizing tonic. Neem also holds medicinal value. Each part of neem is used in the medicines. It has been used in Ayurvedic medicines for more than 4000 years. Neem oil extracted from its seeds is used in medicines, pest control and cosmetics etc. Its leaves are used in the treat Chickenpox.. According to the Hindus, it is believed that the Goddess of the chickenpox, Sithala lives in the Neem tree. Neem tea is usually taken to reduce the headache and fever. Its flowers are used to cure intestinal problems. Neem bark acts as an analgesic and can cure high fever as of malaria. Even the skin diseases can be cured from the Neem leaves. Indians even believe that the Neem can even purify diseases.</Medicinal_uses>
+		<Other_uses>People in India use its twigs to brush their teeth. Neem is considered as the useful tree in rehabilitating the waste land areas. Neem seed pulp is useful for methane gas production. It is also useful as carbohydrate which is rich base for other industrial fermentations. Neem bark contains tannins which are used in tanning and dyeing. In south India its wood is used to make the furniture. The bark of the yields the fiber that is woven into ropes. Neem cake is widely used in India as fertilizer for sugarcane, vegetable and other cash crops. Many countries have been consistently growing the Neem tree against the global warming. The worldwide Neem Foundation has helped in making the people aware about the importance of neem and its uses globally. </Other_uses>
+		<Cultural_importance>One can find Neem in almost all the parts of India. It is said that planting Neem tree in the house is a ensured passage to heaven. Its leaves are stung on the main entrance to remain away from the evil spirits. Brides take bath in the water filled with the Neem leaves. Newly born babies are laid upon the Neem leaves to provide them with the protective aura. Neem gives out more oxygen than other trees. The neem tree is also connected with the Sun, in the story of Neembark 'The Sun in the Neem tree'. Neem is the wonder tree and finds mention in the number of ancient texts.</Cultural_importance>
+	</tree>	
+	<tree>
+		<Name>Garden Asparagus</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Liliopsida</Class>
+		<Order>Asparagales</Order>
+		<Family>Asparagaceae</Family>
+		<Genus>Asparagus</Genus>
+		<Zoological_name>Asparagus officinalis</Zoological_name>
+		<Found_in>Kouchibouguas National Park, Narnala Wildlife Sanctuary and Sariska Tiger Reserve</Found_in>
+		<Other_names>Shatwar, sootmooli, halyan, Satavari, Asparagus root, Wild Aspargus are the other names used for the Garden Asparagus. Satavari means who posses hundred husbands</Other_names>
+		<Description>Garden Asparagus grows to a height of 3 feet. It is an herbaceous perennial and is well known for its edible young shoots. It has fleshy roots and fern-like feathery foliage. Its roots grows 3 feet down in the soil. Young shoots are green succulent and tender. It has smooth and green Garden Asaparagus stems which are 4-6 feet tall. It has green slender branches which appear more like the leaves than the branches. It produces male and female flowers on the separate plants. Flowers are greenish, bell shaped, which grows in the group of 1 to 3. Round bright red berries are produced on the female plants and each berries contains several black seeds</Description>
+		<Other_species>Asparagus aethiopicus, Asparagus africanus, Asparagus declinatus, Asparagus falcatus, Asparagus flagellaris, Asparagus scandens, Asparagus umbellatus, Asparagus plumosus, Asparagus macowanni, Asparagus asparagoides. Garden Asparagus is known to have more than 250 species all over the world</Other_species>
+		<Location>Garden Asparagus found throughout India especially in the Northern India. It is widely grown in the jungles at an altitude of 8,000 feet. It is mainly grown in the gardens. It can also be found in the Kouchibouguas National Park, Narnala Wildlife Sanctuary and Sariska Wildlife Sanctuary in India</Location>
+		<Cultivation_methods>It is mostly propagated through seed, which are allowed to grow for a year. It is mostly planted in the spring season. The plant prefers acid, neutral, and alkaline soil. It grows in semi shade or no shade. The pant is placed in the trench which is 12 -18 inches wide and six inches deep. The roots are spread out uniformly, with the crown bud side up, in an upright, centered position, slightly higher than the roots. It requires water regularly especially when it is young. Young shoots come out in early spring. It flowers in August and the seeds are ripen from September to October</Cultivation_methods>
+		<Medicinal_uses>The roots of the plants are prescribed for the diarrhea and dysentery. They are useful in the nervous disorders. dyspepsia, and tumors, scalding of urine, throat infections, tuberculosis, cough, bronchitis and general debility. It is used in the treatment of the rheumatism and edema due to heart failure. The fresh juice taken in small dose acts medicinally as the diuretic and laxative. It an excellent form of folic acid, which is used in blood cell formation and prevention of liver diseases. It is also a good source of potassium, which helps in muscle recovery and prevents cramping. It is rich in Vitamin C, Thiamin, B6 and fiber. It contains rutin, which strengthens capillary walls, and GSH, which is the cancer fighter</Medicinal_uses>
+		<Other_uses>The delicate flavour of Asparagus make it favourite among the vegetable lovers. They are normally boiled or steamed. There are so many vegetable recipes made out the Garden Asparagus. Its young shoots are taken as the raw salad. It contains low calorie. It has no fat at all</Other_uses>
+	</tree>
+	<tree>
+		<Name>Arjuna Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida </Class>
+		<Order>Myrtales </Order>
+		<Family>Combretaceae </Family>
+		<Genus>Terminalia </Genus>
+		<Species>T. arjuna</Species>
+		<Zoological_name>Terminalia arjuna</Zoological_name>
+		<Found_in>Bandhavgarh National Park, Pench Tiger Reserve and Kanha National Park</Found_in>
+		<Other_names>Arjuna, Koha, Kahu, Arjan, White Marudah, White Murdh, Arjuna Myrobalan, Orjun, Yerra maddi, Sadada, Sadaru and many more.</Other_names>
+		<Description>Arjuna is the large size deciduous tree. The height of the Arjuna tree reaches upto 60 -85 feet. It is the evergreen tree with the yellow flowers and conical leaves. It has a smooth gray bark. Fruit is 2.5 -3.5 cm long, fibrous woody, glabrous with 5 hard wings, striated with numerous arjun-treecurved veins. It has a buttressed trunk and a vast spreading crown from which the branches drop downwards. Its leaves are dull green above and pale brown beneath. Arjuna flowers between March to June and fruits between September to November.</Description>
+		<Other_species>Terminalia chebula, T. bellrica and T. ciliata are the other species of Arjun tree found in India.</Other_species>
+		<Location>Terminalia Arjuna is common throughout India especially in the sub Himalayan tracts and Eastern India. They are widely grown in Bandhavgarh National Park, Pench Tiger Reserve and Kanha National Park in India. It is mainly grown on the banks of the rivers and streams</Location>
+		<Cultivation_methods>Its fruit is dried in the sunlight and than stored up to 6 -12 months. Seeds are pretreated by soaking in the water for 48 hours before sowing in beds. 8 – 9 months seedlings are better to transplant in the field. </Cultivation_methods>
+		<Medicinal_uses>The Bark of the Arjuna tree contains calcium salts, magnesium salts, and glucosides has been used in traditional Ayurvedic herbalism Juice of its leaf is used to cure dysentry and earache. Arjuna helps in maintaining the cholesterol level at the normal rate, as it contains the antioxidant properties similar to the Vitamin E. It strengths the heart muscles and maintains the heart functioning properly. It also improves functioning of cardiac muscle. Arjuna is used for the treatment of coronary artery disease, heart failure, edema, angina and hypercholesterolemia. Its bark power possesses diuretic, prostaglandin enhancing and coronary risk factor modulating properties. It is also considered as beneficial in the treatment of Asthma</Medicinal_uses>
+		<Other_uses>Its wood is used in boat and house building as it is very hard. Its wood is also used in the making of the agricultural implements and weapons too. It is grown in the cities and towns for the purpose of shade</Other_uses>
+		<Cultural_importance>Arjuna is one of the sacred tree of India. It has acquired the social and religious sanctity with the passage of time. It is said that Arjuna has been born of the two sons of Kubair after saint Narada cursed him. The leaves and flowers of this tree are offered to the Lord Vishnu and Lord Ganpati on the several religious occasions. It has been used in Ayurvedic formation since ancient times</Cultural_importance>
+	</tree>	
+	<tree>
+		<Name>Aloe Vera</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Liliopsida</Class>
+		<Order>Asparagales</Order>
+		<Family>Asphodelaceae</Family>
+		<Genus>Aloe</Genus>
+		<Species>A .vera</Species>
+		<Zoological_name>Aloe Vera</Zoological_name>
+		<Found_in>Ranthambore Wildlife Sanctuary </Found_in>
+		<Other_names>Cape aloe, Aloe curacao, Barbadoes aloe, Venezuela aloe, Indian alces, Ghirita, Lu hui, Star Cactus are the other names used for the Aloe Vera. It is also called miracle plant, Burn plant, medicine plant and first-aid-plant</Other_names>
+		<Description>Aloe Vera grows to a height of 12 to 16 inches. It has a fibrous root system. It does not have stems. It has thick freshly leaves with sharp points, which are up to 18 inches long and 2 inches wide at the base. Its leaves are even long and triangular in shape. The tissue in the center of the aloe-veraAloe leaf contains a gel which yields the aloe gel. Its leaves are rich in water that is why it can survive for years. These leaves have spiky margins and are blotched creams. It is the member of the Lilly family. The roots of the pant are thick and fibrous. The fruit is the triangular capsule containing numerous seeds</Description>
+		<Other_species>There are more than 200 species of Aloe Vera. Aloe Barbadensis Miller, Aloe Saponaria, Aloe Chinensis, Aloe Variegata, Aloe Forex, Aloe Lalifolia and Curacao Aloe are some of the known species of Aloe Vera.</Other_species>
+		<Location>Aloe Vera is cultivated throughout India. It is commonly found in Mumbai, Gujrat and South India. It mainly grows in the tropical and sub tropical areas. It grows well on sandy and well drained soil. It is widely grown in the Ranthambore National Park in India</Location>
+		<Cultivation_methods>Aloe Vera plant is propagated through the seed. It prefers a well drained sandy soil in sunny location. Aloe Vera needs the temperature of above 40 degrees. They should be potted in the spring season and watered carefully until established. It grows in the arid climate. They should be watered regularly in the summers. But over watering can kill the plant. It also grows in partial shade. It reaches the maturity inn four years when the leaves are harvested. </Cultivation_methods>
+		<Medicinal_uses>Aloe Vera is the herbal plant, used to heal the burn marks. Aloe Vera cures the skin diseases. It can also be used to remove dandruff from the hair. Aloe Vera is taken internally for the stomach disorders. The leaves of Aloe Vera is used for the treatment of facial edema or swelling. Its fluid is beneficial in reducing the inflammation and pain. Aloe Vera is used in cosmetics and even in the food industry. Curacao aloe acts as laxative, which is used against constipation. The fresh juice of its leaf blades can be applied directly to the ulcers, burns, sunburns, and fungal infection. Organic Aloe Vera juice reduces acidity. It prevents from fungus, influenza virus, measles, and high fever. </Medicinal_uses>
+		<Other_uses>Aloe Vera is a very popular potted plant. It is grown in houses for the decoration. The leaf sap is used to make a soothing and healing moisturizing cream, which is good for the dry skin. It is used in the making of anti wrinkle cream. It is even used in the preparation of shampoos.</Other_uses>
+		<Cultural_importance>Aloe Vera has been mentioned several times in the sacred scriptures. It is believed to have been used for the preservation of the body of the Jesus Christ. It is called as the plant of immorality. It is also mentioned in the holy book of Bible. It has been used by the tribal people as a medicine for the century</Cultural_importance>
+	</tree>	
+	<tree>
+		<Name>Amla Plant</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Flowering plant</Division>
+		<Class>Magnoliopsida </Class>
+		<Order>Malpighiales </Order>
+		<Family>Phyllanthaceae </Family>
+		<Tribe>Phyllantheae</Tribe>
+		<Subtribe>Fluegginae</Subtribe>
+		<Genus>Phyllanthus </Genus>
+		<Species>P. emblica </Species>
+		<Zoological_name>Phyllanthus emblica</Zoological_name>
+		<Found_in>Gir Wildlife Sanctuary</Found_in>
+		<Other_names>Indian gooseberry, Bhumi amla, Bhumyamalki, Amlaki, adiphala, dhatri, amalaka, amali, amalakamu, usirikai, Anola, Amlika, nellikai, malacca tree, nillika, nellikya, emblic are the other names used for the Amla</Other_names>
+		<Description>Amla is the medium size deciduous plant. It grows to the height of 8 -18 meter. It has a crooked trunk and spreading branches. Its flower is yellow greenish in colour. The fruit is spherical pale yellow with six vertical furrows. The mature fruits are hard and do not fall for the gentle touch. amla-plantThe average weight of the fruit is 60 -70 g. It has a gray bark and reddish wood. Its leaves are feathery, linear oblong in shape and smell like lemon. Its wood is hard in texture. It wraps and splits when exposed in the Sun or in the excessive heat. </Description>
+		<Location>It is planted through the deciduous of tropical India and on the hill slopes up to 2000 meter. It is commercially cultivated in the state of Uttar Pradesh in India. It is also grown in Tamil Nadu, Rajasthan and Madhya Pradesh also.</Location>
+		<Cultivation_methods>Amla can grow in light as well as the heavy soils. It is grown under the tropical conditions. The young plants are protected from the hot winds as they dye easily. Amla is generally propagated through seeds. It requires proper sunlight. It is irrigated during the monsoon season. It starts bearing fruits in seven years from the day of planting.</Cultivation_methods>
+		<Medicinal_uses>The fruit is the richest source of Vitamin C and is a diuretic, aperient, Laxative and hair dye. It cures insomnia and is healthy for hair. It is used as the cardio protective, useful in hemorrhage, menprrhagia, leucorrhoea and discharge of blood from uterus. Amla power and oil are used traditionally in Ayurvedic applications for the treatment of scalp. Amla power improves immunity and gives physical strength. It improves complexion and removes wrinkles. Amla is also used to treat constipation and is used as a cooling agent to reduce the effects of sun strokes and sun burns.</Medicinal_uses>
+		<Other_uses>It is the main ingredient used in the shampoo. Amla oil is used all the world. Amla is used in sauces, candy, dried chips, pickle, jellies and powder. It is even used in the dyeing industry. It extract is popularly used in the ink. Amla wood is commonly used in firework.</Other_uses>
+		<Cultural_importance>Amla has been regarded as the sacred tree in India. It sin worshiped as the Mother Earth and is believed to nurture humankind because the fruits are very nourishing. It stimulates spiritual purity. Kartik Mahatma and Vrat Kaumudi order the worship of this tree. Its fruits and flowers are used in worship.</Cultural_importance>
+	</tree>	
+	<tree>
+		<Name>Ashwagandha</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Subkingdom>Tracheobionta </Subkingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Subclass>Asteridae</Subclass>
+		<Order>Solanales</Order>
+		<Family>Solanaceae</Family>
+		<Genus>Withania</Genus>
+		<Species>W. somnifera </Species>
+		<Zoological_name>Withania somnifera </Zoological_name>
+		<Found_in>Sariska Tiger Reserve, Rantambore National Park and Eravikulam National Park</Found_in>
+		<Other_names>Indian Ginseng, Ajagandha, Clustered Wintercherry, Kanaje, Orovale, Samm Al Ferakh, Strychnos, Withania are the other names used for the Aswagandha. It has derived its name from the Sanskrit work meaning 'Horse smell</Other_names>
+		<Description>Ashwagandha is an evergreen shrub that grows up to the height of 0.5 m to 1.5 m. It is covered by the leaves all round the year. The flowers are hermaphrodite (they have both the male and the female organs) and are greenish yellow in colour. Its fruit and berries are orange -red in ashwagandhacolour. Its roots are whitish brown in colour. Aswagandha is a small woody shrub and flowers all the year round. </Description>
+		<Other_species>Withania coagulens and Withania simonii are the other related species of the Ashwagandha</Other_species>
+		<Location>Ashwagandha is grown in all the parts of India. It is grown in India as the crop and can also be grown in the Kitchen garden. One can find this medicinal plant in the Sariska Tiger Reserve, Ranthambore National Park and Eravikulam National Park in India. It is also found in various Botanical gardens in India. It is found in the woodland garden, cultivated beds and dappled shade.</Location>
+		<Cultivation_methods>Ripe red fruits of the plant are dried in the warm and well ventilated space. After some days the berries are separated, washed and dried up properly. Its seed can be shown in the early spring, they get germinated within two weeks, prefers light sandy, medium loamy and well drained soil. It grows more in the sunlight than in the shade. </Cultivation_methods>
+		<Medicinal_uses>Ashwagandha is a very useful herb. It reduces stress, strengthen the immunity and nervous system. It helps in enhancing the mental functioning. It is useful in sexual and general weakness. It gives vitality and vigour and helps in building greater endurance. It is used to cure diseases like rheumatism, leprosy and arthritis. The leaves and the root bark of the pant are abortifacient, adaptogen, antibiotic, aphrodisiac, diuretic, narcotic and tonic. It is also used to tone the uterus after the miscarriage. The fruit and seeds are diuretic. All the parts of the plant are used in the herbal medicines. According to the Ayurveda studies Ashwandha increases health and longevity. It is also sometimes used to treat the memory loss. In cases of cancer Ashwagangha acts as the adjuvant</Medicinal_uses>
+		<Other_uses>Ashwagandha is used as the substitute of the soaps. The leaves are an insect repellent. Aswaganda mixed with the almond oil and rose water is used as the facial toner. Ashwagandha is taken with the milk, with sugar or honey as it promotes deep sleep. </Other_uses>
+	</tree>
+	<tree>
+		<Name>Brahmi Plant</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida </Class>
+		<Order>Lamiales </Order>
+		<Family>Scrophuariaceae</Family>
+		<Genus>Bacopa</Genus>
+		<Species>B. monnieri </Species>
+		<Zoological_name>Bacopa monnieri</Zoological_name>
+		<Found_in>Bandhavgarh National Park</Found_in>
+		<Other_names>Bacopa, Babies tear, Bacopa monnieri, Hespestis monniera, Nirbrahmi, Indian Pennywort, Jalanevari and water hyssop are the other names that are used for Brahmi. In English it is commonly called as the 'Herb of Grace'.</Other_names>
+		<Description>Brahmi is the small creeping herb with the numerous branches. It grows to a height of 2 -3 feet and its branches are 10 -35 cm long. It has oval shaped leaves that are 1-2 cm long and 3- 8 mm broad. Leaves are formed in pairs along the stems. Small- tubular, five petaled flowers are white- purple in colour. Its stem is soft, succulent, and hairy with the glands. Roots emerge out of the nodules and directly go to the soil. The fruit is oval brahmiand sharp at apex.</Description>
+		<Other_species>Herpestis monniera, or Moniera cuneifolia is the other specie of Brahmi (Bacopa monnieri).</Other_species>
+		<Location>Brahmi is found in marshy areas near streams and ponds throughout India especially in the North eastern regions. It is found at an elevations from sea level to altitudes of 4,400 feet. It is found in `Uttar Pradesh, Punjab, Haryana, Bihar, Bengal, Tamil Nadu, Kerala, Karnataka, Foot hills of Himachal Pradesh &amp; Uttaranchal. It is also widely grown in the Bandhavgarh National Park in India. </Location>
+		<Cultivation_methods>Brahmi is propagated by seed, cuttings and also by the root division. Before establishing the plant cutting the field should be ploughed properly ans must be made free of weeds. The cuttings should be 4-5 cm long and must contain roots and leaves. Hand weeding is required in every 5 -20 days. It grows faster in the high temperature (33- 42 Degree celcius) and humidity (65 -80%). It prefers wet spots. It is grown in the pots in the house garden. It can grow in both the sun and shade. It requires water from time to time as its roots are shallow. It also requires regular organic fertilizer for its growth. It gives flowers ans fruit in the summer season. It requires moderate to high lightening to grow well. </Cultivation_methods>
+		<Medicinal_uses>Brahmi is used in traditional Indian medicines for centuries. for the treatment of bronchitis, chronic cough, asthma, hoarseness, arthritis, rheumatism, backache, fluid retention, blood cleanser, chronic skin conditions, constipation, hair loss, fevers, digestive problems, depression, mental and physical fatigue and many more. It is used to treat all sorts of skin problems like eczema, psoriasis, abscess and ulceration. It stimulates the growth of skin, hair and nails. Brahmi posses anticancer activity. It is taken to get relief from stress and anxiety. According to the Ayurveda Brahmi has antioxidant properties. It has been reported to reduce oxidation of fats in the blood stream, which is the risk factor for cardiovascular diseases. Brahmi is considered as the main rejuvenating herb for the nerve and brain cells. </Medicinal_uses>
+		<Other_uses>Brahmi is rich in Vitamin C and can be used in the salads, soups and sandwiches. Brahmi oil restores and preserves the memory. In India it is given to the infants to boost memory power intelligence.</Other_uses>
+		<Cultural_importance>Brahmi is the name derived from the Lord Brahma. It is said that the use of Brahmi for the memory goes back 3000 years or more in India. Brahmi represents the creative energy of this earth. </Cultural_importance>
+	</tree>
+	<tree>
+		<Name>Eucalyptus</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida </Class>
+		<Order>Myrtales </Order>
+		<Family>Myrtaceae </Family>
+		<Genus>Eucalyptus </Genus>
+		<Zoological_name>Eucalyptus globulus, Eucalyptus polybrachtea</Zoological_name>
+		<Found_in>Nagarhole National Park and Bandipur National Park </Found_in>
+		<Other_names>Tailapatra, Sugandhapatra, Tailaprana, and Nilgiri Taila are the other names used for the Eucalyptus</Other_names>
+		<Description>Eucalyptus is a tall evergreen tree. It attains the height of more than 300 feet. Leaves of the tree on juvenile shoots are opposite, sessile, cordate-ovate and covered with a bluish white bloom. The adult leaves are alternate, lanceolate and are 6-12 inches long and 1-2 inches broad. It eucalyptus-treeflowers are cream in colour. The appearance of its bark varies with the age of the tree. Its bark consists of long fibers and can be can be pulled off in long pieces. Stems of the seedlings and coppice shoots are quadrangular. Flowers are in cymose panicles. The fruit is a capsule. </Description>
+		<Other_species>Eucalyptus abdita, Eucalyptus acies, Eucalyptus apiculata, Eucalyptus albopurpurea, Eucalyptus alligatrix, Eucalyptus ammophila, Eucalyptus amplifolia, Eucalyptus andrewsii are the other related species of Eucalyptus. There are 700 species of Eucalyptus. </Other_species>
+		<Location>It is widely grown in Tamil Nadu, Andhra Pradesh, Gujrat, Haryana, Mysore, Kerala and in the Nilgiri Hill. It grows well in deep, fertile, well drained loamy soil with adequate moisture. It is also found in Nagarhole National Park and Bandipur National Park in India. . </Location>
+		<Cultivation_methods>Eucalyptus grown in well drained sandy soil. It is propagated through seeds, soft wood cuttings and semi hard wood cuttings. At the time planting it must be taken into account that ts roots are not broken. It needs water before and after planting. It requires full sunlight.</Cultivation_methods>
+		<Medicinal_uses>Eucalyptus is known for its use either as an essential oil or leaf tea for its ability to relieve congestion and ease breathing in colds. It oil is also used as the pain reliever foe sore and overextended muscles. The essential oil of Eucalyptus contains cineole, a potent antiseptic that helps in killing the bacteria and fungi. It helps in increasing cardiac action. It is taken in all types of fever. It helps in purifying the blood. It lowers the blood sugar. It brings relief to the patients of Asthma and bronchitis. It is the excellent topical remedy for aching joints and rheumatism. It helps in improving the blood circulation. </Medicinal_uses>
+		<Other_uses>Eucalyptus is used as the pulpwood in the manufacture of the paper as well as raw material. It is used as the poles for the construction of huts and houses. It is used in making plywood, doors and windows. </Other_uses>
+	</tree>
+	<tree>
+		<Name>Indian Mahogany</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Sapindales </Order>
+		<Family>Meliaceae </Family>
+		<Genus>Swietenia</Genus>
+		<Species>S. mahagoni</Species>
+		<Zoological_name>Swietenia mahagoni </Zoological_name>
+		<Found_in>Thattekkad Wildlife Sanctuary, Kaziranga National Park and Corbett National Park</Found_in>
+		<Other_names>Mahogany, West Indian Mahogany, Spanish mahogany, Madeira redwood, acajou, caoba, caoba de Santo, cheria mahogany, Cuban mahogany, American mahogany, True mahogany, small leaf mahogany, Dominican mahogany are some of the other names of Indian Mahogany.</Other_names>
+		<Description>Indian Mahogany grow up to the height of 30 -40 feet. It is fast upright growing tree with abroad rounded symmetrical crown. It is 20 -30 feet in spread. The fruit is a large greenish brown capsule, splitting into 5 parts relwasing flat, long winged, light brown seeds. Its wood is red brown indian-mahogany-treein colour. Both the male and the female flowers are produced on the same plant. The bark is smooth dark brown in colour. The leaves are pinnate which are 12 -25 cm long, with four to eight leaflets.</Description>
+		<Other_species>Swietenia humilis , Swietenia candollei, Swietenia fabrilis, Swietenia mahagoni, Swietenia macrophylla are the other related species of the Indian Mahogany.</Other_species>
+		<Location>India Mahogany is found in almost all the parts of India. It can also be found in Thattekkad Wildlife Sanctuary, Kaziranga National Park and Corbett National Park in India. </Location>
+		<Cultivation_methods>Indian Mahogany is mostly propagated through seeds. It requires partial shade or full Sun for its growth. It needs water periodically. It looses its leaves at the end of the winter. The new leaves start growing after two three weeks. The new leaves are reddish purple in colour, which turn yellow green afterwards. </Cultivation_methods>
+		<Medicinal_uses>The bark extracts are used as an astringent for wounds. It is used to cure malaria, anemia diarrhea, fever, dysentery and depurative. The leaves contain several limonoids; seven phragmalin limonoids of swietephragmins A-G as well two other different types of 2-hydroxy-3-O-tigloylswietenolide and deacetylsecomahoganin. </Medicinal_uses>
+		<Other_uses>Its wood is used in making furniture, fixtures, musical instruments, inlay, boat, caskets and many more. Its wood is a very popular material for drum making.</Other_uses>
+	</tree>
+	<tree>
+		<Name>Rosewood</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Fabales</Order>
+		<Family>Fabaceae</Family>
+		<Subfamily>Faboideae</Subfamily>
+		<Genus>Dalbergia</Genus>
+		<Species>D. sissoo </Species>
+		<Zoological_name>Dalbergia sissoo </Zoological_name>
+		<Found_in>Periyar Wildlife Sanctuary, Bandipur National Park and Sariska Tiger Reserve </Found_in>
+		<Other_names>aguru (Sanskrit), Bombay Rosewood (English), dalbergia (Arabic), nakku katti (Tamil Nadu), ostindisches Rosenholz, pradu-khaek, pradu-khaek, shinshapa (Sanskrit), shisham (Hindi), shishu (Bengali), shisu (Bengali), sisam (Hindi), sisham (Nepali), sissai (Hindi), sissau (Nepali), sisso (English), sisso (Tamil), sissoo (English), sissoo (Arabic), sissoo (Hindi), sissu (Hindi), sisu (Bengali), sisu (Spanish), sisuitti (Tamil), skuva, sonoswaseso (Javanese), tali, yette (Tamil) are some of the other names used for the Indian Rosewood.</Other_names>		<Description>ndian Rosewwod is a erect deciduous tree. It grows to the height of 25 meter and 2-3 meter in diameter. It has leathery leaves which are up to 15 cm long. The flowers are whitish pink in colour. Its crown is oval in shape. The fruit is brown and pod like in shape. The fruit is dry and hard. The sapwood is white to pale brown in colour and the heartwood is golden to dark brown in colour.</Description>
+		<Other_species>dalbergia nigra, dalbergia latifolia are the other known species of the Indian Rosewood.</Other_species>
+		<Location>Indian Rosewood mainly grows on the banks of the river below 900 meter elevation. It is widely found in the Indian Stat of Haryana. It can also be found in the Periyar National Park, Bandipur National Park and Sariska Tiger Reserve in India</Location>
+		<Cultivation_methods>Indian Rosewood is mostly propagated through the root suckers and seeds. It requires fertile well drained soil. Seeds are soaked in water for 48 hours before sowing. Seeds are germinated in three weeks. Young Rosewood needs full sunlight. It requires dry to wet soil. Young plants are well watered until established. Flowers occur from October to February </Cultivation_methods>
+		<Medicinal_uses>Indian Rosewood holds many medicinal properties. Rosewood oil stimulates new cell growth, regenerate tissues, and heps minimize lines and wrinkles. It helps balance both dry and oily skin. It can prove useful against acne.</Medicinal_uses>
+		<Other_uses>It is the important fuel wood and is also used for shade and shelter. Its wood is used for the making furniture, doors, windows, ship floors, plywood, skis, musical instruments, carvings etc. Because of durability Rosewood is often used in the martial art weaponary, particulary as the shaft of spears and in the gun staves. Its oil is used in Perfumes. </Other_uses>
+		<Cultural_importance>Many people grow Rosewood because they believe harvesting the wood denudes the rain forests. </Cultural_importance>
+	</tree>
+	<tree>
+		<Name>Tulip Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta</Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Malvales</Order>
+		<Family>Malvaceae</Family>
+		<Genus>Thespesia</Genus>
+		<Species>T. populnea </Species>
+		<Zoological_name>Thespesia populnea </Zoological_name>
+		<Found_in>Eravikulam National Park</Found_in>
+		<Other_names>Portia tree, Pacific Rosewood, Suriya (Sinhala), Poovarasu, Plaksa, Sea side Mahoe are the other names used for the Indian Tulip tree. It is also known as the Scarlet Bell tree, Flame of the forest and Fountain tree</Other_names>
+		<Description>Indian Tulip Tree attains the height of 40 feet or more. It is a very large tree. It has heart shaped leaves and the cup shaped flowers. It is a fast growing, evergreen tree. It is very bushy when it is young but thins out with the age. Each flower is white – yellow in colour and has indian-tulip-treemaroon eye that ages to purple. The flowers bloom year round and lasts for three days. The major branches of the tree grow straight, with the thick corrugated bark. They are Its barks are stringy and light grey in colour. Its fruit is the round capsule which is about one inch across. Its seeds are greyish brown in colour. </Description>
+		<Other_species>Hibiscus tilliaceus, H. pernambucensis , H. elatus are the other related species of the Indian Tulip Tree.</Other_species>
+		<Location>Indian Tulip tree is found in the lower dry forests to the wet forests. Deep, rich, well-drained soils of forest coves and lower mountain slopes. It is widely grown in the Eravikulam National Park in India.. </Location>
+		<Cultivation_methods>Indian Tulip trees are easily propagated through the seeds. It requires a deep rich soil for its cultivation. It must be taken care that the inner part of the seed is not destroyed. The seeds are germinated within 14 28 days. Tulip plant can also be propagated with the cuttings. It is also grown in the pots. It sheds its leaves in the month of February. New leaves appear in the month of April and March</Cultivation_methods>
+		<Medicinal_uses>The bitter inner bark of the Indian Tulip tree is used as diuretic and stimulant. Its raw green bark is also chewed as an aphrodisaic. Its tea is used in the treatment of indigestion, dysentery, rheumatism, coughs and fevers. In India its bark was used to treat the skin diseases, and haemorrhoids. Its leaves are applied to the inflamed and swollen joints. It is also used in the treatment of ringworm. Its roots are used as the tonic</Medicinal_uses>
+		<Other_uses>The fruits, flowers and young leaves are edible. The tough fibrous bark is made into rope in several areas. The bark is also used to caulk boat. Even the cork is made from the inner bark. The yellow dye is obtained from its fruits and flowers and the red one from the bark. Its parts are also used in the making of gum, oil and tannin. Its timber is also used to make the papers. Its wood is used to make bowls, paddles and other carved objects</Other_uses>
+	</tree>
+	<tree>
+		<Name>Khair Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Fabales </Order>
+		<Family>Fabaceae </Family>
+		<Subfamily>Mimosoideae</Subfamily>
+		<Genus>Accacia</Genus>
+		<Species>A. chundra </Species>
+		<Zoological_name>Acacia chundra </Zoological_name>
+		<Found_in>Gir Wildlife Sanctuary, Corbett National Park and Ranthambore National Park</Found_in>
+		<Other_names>Karangali, Kodalimurunkai, Lal Khair, Lal Khair, Rat Kihiriya, Sundra, Sadra, Karugali, Karamgali, Kachu, Kaggli, Karnali, Khadirah, Red Cutch are some of the other names used for the Khair tree.</Other_names>
+		<Description>It is the moderate size deciduous tree. It has rough bark which is dark gray brown in colour. It grows up to the height of 15 meter. The leave are 8 -10 cm long. It has short curved stipular spines and rough grayish brown bark. The flowers are pale yellow in colour. They start appearing khair-treein the month of June -August. Fruits ripen in January to March and remain in the tree for long. The young parts are dark brown to purple in colour. The tree has tough texture from outside.</Description>
+		<Other_species>Acacia sundra, Mimosa sundra are some of the related species of Khair tree.</Other_species>
+		<Location>It grows throughout India from the Himalayas to the South of India. Khair tree is widely grown in Gir Wildlife Sanctuary, Corbett National Park and Ranthambore National Park in India.</Location>
+		<Cultivation_methods>It is mainly propagated through the stumps or seeds. The seeds are mostly shown in the month of June. It is planted on sandy and black cotton soil. The seeds germinate in the monsoons. Khair should be sown on mounds at least 61 to 76 cm in height so that the seedlings do not remain submerged in water for a long period; a few weeks’ submersion is not fatal. Irrigation is necessary for the plant. Cuttings should be made from the well developed seedlings. The root and shoot should be 23 31 cm and 2.5 to 5.0 cm respectively. </Cultivation_methods>
+		<Medicinal_uses>Khair tree is very useful in the dental problems. It gives relief in dry cough. It is also given in stomatis, Anaemia, Leprosy, Bronchitis, Pruritus, Diarrhoea, Polyuria. Its wood contains catechin, catechutanic acid and tannin. It is used externally for ulcers, boils and eruption of the skin. The juice of the fresh bark is given in haemoptysis. It is used to treat painful throat and cough. </Medicinal_uses>
+		<Other_uses>The pale yellow mucilaginous gum exudes from the tree yield one of the beast substitutes for true gum arabic. The wood extracts are used for tanning and dying Khaki. Its wood is used as the raw material in the raw industry. Its wood is used in ship building. Its wood is even a food for bees. It is even used as the fire for yagna. The wood of Khair is used in making the plough and the pounding log for rice. </Other_uses>
+		<Cultural_importance>The Khair tree signifies endurance and strength.</Cultural_importance>
+	</tree>
+	<tree>
+		<Name>Kikar Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Fabales</Order>
+		<Family>Fabaceae</Family>
+		<Subfamily>Mimosoideae</Subfamily>
+		<Genus>Acacia</Genus>
+		<Species>A. karroo </Species>
+		<Zoological_name>Acacia karoo</Zoological_name>
+		<Found_in>Ranthambore Wildlife Sanctuary</Found_in>
+		<Other_names>Cape Gum, Cassie, Piquants Blancs, Cassie Piquants Blancs, Cockspur Thorn, Deo-Babool, Doorn Boom, Kaludai, Karroo Thorn, Kikar, Mormati, Pahari Kikar, Pahari Kikar and Udai Vel are the other names used for the Kikar.</Other_names>
+		<Description>Kikar is the small thorny tree. It grows to the height of 7 – 12 meter. It has yellow round head flowers which are nectar less. The bark is red -brown to blackish and rough. The leaves are light green and fern like up to 120 mm long and 50 mm wide. Flowers are 10- 15 mm in diameter, which grow in cluster between 4 -6 and are sweetly scented. </Description>
+		<Other_species>Acacia campbellii, Acacia dekindtiana , Acacia eburnea sensu auct, Acacia horrida sensu auct, Acacia inconflagrabilis, Acacia karoo, Acacia minutifolia, Acacia natalitia, Acacia pseudowightii, Acacia roxburghii, Mimosa eburnea are the other realted species of Kikar. </Other_species>
+		<Location>It is widely found in the State of Haryana in India. It can also be found in the Ranthambore National Park of India.</Location>
+		<Cultivation_methods>It is mainly grown in the cold temperature. It can be grown in any type of soil. It requires water for seed germination. </Cultivation_methods>
+		<Other_uses>The bark and seeds are the source of tannin. The various parts of Kikar are useful in Diarrhoea. The leaves and the bark are useful in arresting secretion or bleeding. The pods help remove catarrhal matter and phlegm from the bronchial tubes. The gum allays any irritation of the skin and soothes the inflamed membranes of the pharynx, alimentary canal and genito-urinary organs. Fresh pods of babul tree are effective in sexual disorders like spermatorrhoea, frequent night discharges, loss of viscidity of the semen and premature ejaculation.</Other_uses>
+		<Cultural_importance>It is widely used for fire work and timber. It is introduced and cultivated for erosion and fuel wood. Flowers are used for ornamental purposes, leaves serves as fodder for goats, also used in fencing and hedges. It is honey bee species. Its wood is used for the paper production. Its is also sometimes used as the gum.</Cultural_importance>
+	</tree>
+	<tree>
+		<Name>Sal Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Malvales</Order>
+		<Family>Dipterocarpaceae </Family>
+		<Genus>Shorea</Genus>
+		<Species>S. robusta </Species>
+		<Zoological_name>Shorea robusta </Zoological_name>
+		<Found_in>Bandhavgarh National Park, Corbett National Park and Dudhwa National Park in India </Found_in>
+		<Other_names>Shala, Sarai, Sargi, Salwa, Sakhu, Sakher, Shal, Kandar and Sakwa are the other names used for the Sal tree.</Other_names>
+		<Description>Sal is a large sub deciduous tree. It is up to 30 meter high. Sal tree is seldom completely leafless. It has large leathery leaves and yellowish flowers. They have tough texture. Young trees have a linear crown, which becomes rounder and flatter with aging. The sapwood is whitish in colour, thick and is less durable. The heartwood becomes dark brown to black in colour on exposure. The wood pores are filled with resin. </Description>
+		<Location>Sal tree are found in Assam, Nepal, Bengal and on the bank of the Yamuna river. In Haryana Sal can be found in the Morni Hills and the Kalesar forests. Sal tree grows in North East and Central India up to 1700 meter elevation. It is widely grown in the foothills of the Himalayas. Sal trees are also found in the Bandhavgarh National Park, Corbett National Park and Dudhwa national Park in India</Location>
+		<Cultivation_methods>Sal tree requires well drained, moist and sandy loam soil. It can grow in type type of temperature. It is mostly propagated through cuttings. In dry conditions it sheds it leaves from February to March. New leaves appear in the month of April and May. The flowers mature into fruit in summers and the seeds ripen in June -July. </Cultivation_methods>
+		<Medicinal_uses>The resin is used in the indigenous system of medicine as an astringent and detergent and is given in diarrhea and dysentery. It is also used as an ingredient of ointments for skin diseases and in the ear troubles. It is also used in the foot care cream. The fruits of the Sal tree are used in the treatment of excessive salivation, epilepsy, and chlorosis. The powered seeds have insecticides properties. The powered seeds are even used to treat dental problems. It cleanses the skin of oily secretion and is used as the cleanser for washing hair. </Medicinal_uses>
+		<Other_uses>The leaves of the Sal tree are used by the tribal people for preparing rice cakes and for smoking. The leaves are used to make platters, bowls, small baskets and many more. Distilled leaves produce an oil which is used in perfumery. It is also used in flavouing chewing gums and tobacco. Its dried and fallen leaves are used as fertilizers. It is used for caulking ships and boats. The oil that comes out from its seed is edible and is known as Sal butter. It is often used in cooking and for the burning in the oil lamps. The seeds of the Sal tree are used for fat extraction. Its oil is even used for adulterating ghee. Tribal people give marriage invitation in the form of folded Sal leaves, with the little bit of turmeric and rice inside it. </Other_uses>
+		<Cultural_importance>Sal tree is worshiped among the Buddhist and Hindus in India. It is mentioned in many scriptures that the Buddha was born and died under the Sal tree. A branch of the tree bend down to support his mother Maya and as soon as he held on the tree, the baby appeared. Sal tree has special significance in the festivals and marriages of Adivasi. A pole of the Sal tree is considered very important and unless the bridegroom sits on the altar made of tree of Sal, the marriage has no meaning. It also holds great value in the lives of the indigenous populance of Chotanagpur plateau. It is the main attraction of the festival of Sarhul, which means Sal Blossoms Festival. The whole festival revolves round the Sal tree. </Cultural_importance>
+	</tree>
+	<tree>
+		<Name>Cork Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Lamiales</Order>
+		<Family>Bignoniaceae</Family>
+		<Genus>Millingtonia</Genus>
+		<Species>M. hortensis</Species>
+		<Zoological_name>Millingtonia Hortensis</Zoological_name>
+		<Found_in>Sultanpur Bird Sanctuary</Found_in>
+		<Other_names>Akas Nim, Nim Chameli, Betati Nim, Mini Chameli, Karkku, Kat Malli, Kavudi are some of the other names used for the Cork Tree.</Other_names>
+		<Description>It is a tall deciduous tree. It grows up to 25 meter. The leaves are pinnately compound. Flowers in corymbose, long tubular, white and fragrant. The fruit is a capsule. It flowers at night and shed flowers early in the morning. It has corky bark. It has straight trunk and has few branches. </Description>
+		<Other_species>Phellodendron amurense, Phellodendron chinense, Phellodendron japonicum, Phellodendrum lavallei, Phellodendron sachalinense, Phellodendron wilsonii are the other related species of the Cork tree.</Other_species>
+		<Location>Cork tree widely grows in the Central India. It is mostly found in the tropical forests. It can be found in the Sultanpur National Park in India.</Location>
+		<Cultivation_methods>Cork tree can grow in variety of soils. It requires full sunlight for its growth.</Cultivation_methods>
+		<Medicinal_uses>Stem and roots of the Cork tree have great medicinal value. Its dried flower is a good lung tonic. It is also used in the cough diseases. </Medicinal_uses>
+		<Other_uses>Its flowers are used in the rituals. Its bark is used to produce yellow dye. </Other_uses>
+	</tree>
+	<tree>
+		<Name>Teak Tree</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Magnoliopsida</Class>
+		<Order>Lamiales</Order>
+		<Family>Verbenaceae </Family>
+		<Genus>Tectona</Genus>
+		<Zoological_name>Tectona Grandis </Zoological_name>
+		<Found_in>Gir National Park, Satpura National Park, Pench Tiger Reserve</Found_in>
+		<Other_names>Saka, Burma teak, Rangoon teak, moulmein teak, gia thi, jati sak, kyun, mai sak, rosawa and tekka are the other names used for the Teak tree.</Other_names>
+		<Description>Teak is tall evergreen tree. It has yellowish blonde to reddish brown wood. It attains the height of about 30 meter. The fruit is a drupe. It has bluish to white flowers. It produces the large leaf similar to the tobacco leaf. The bark is whitish gray in colour. It is generally grown straight teak-treewith the uneven texture, medium lusture and the oily feel. The upper surface of the tree is rough to touch and the inner surface has hairs. The fruit is enclosed by the bladder like calyx, which is light brown, ribbed and papery. </Description>
+		<Other_species>Tectona grandia, Tectona hamiltoniana, and Tectona philippinensis are the other related species of the Teak tree.</Other_species>
+		<Location>Teak is well grown in all the parts of India. It is also found in the Gir National Park, Satpura National Park, Pench Tiger Reserve in India. </Location>
+		<Cultivation_methods>The new plants can also be propagated from cuttings. It is usually planted when the four to six weeks old. Plough the land thoroughly and level it. The best season to plant the teak is monsoon, most probably after the first shower. Carry out weeding operations regularly. Teal requires loamy soil rich in humus and having the right content of moisture with good drainage. It grows well in hilly and dry areas. It requires a dry tropical climate for its growth. It flowers in february and March.</Cultivation_methods>
+		<Medicinal_uses>Teak also holds the medicinal value. The bark is bitter tonic and is considered useful in fever. It is also useful in headache and stomach problems. Digestion may be enhanced by the teak wood or bark</Medicinal_uses>
+		<Other_uses>It is used in the furniture making, boat decks and for indoor flooring. It is widely used to make the doors and house windows. It is resistant to the attack of termites. Its wood contains scented oil which is the repellent to insects. The leaves yield the dye which is used to colour the clothes and edible. Teak is probably the best protected commercial species in the world.</Other_uses>
+	</tree>
+	<tree>
+		<Name>Turmeric Plant</Name>
+		<Kingdom>Plantae</Kingdom>
+		<Division>Magnoliophyta </Division>
+		<Class>Liliopsida </Class>
+		<Subclass>Zingiberidae </Subclass>
+		<Order>Zingiberales </Order>
+		<Family>Zingiberaceae </Family>
+		<Genus>Curcuma </Genus>
+		<Species>C. longa </Species>
+		<Zoological_name>Curcuma longa</Zoological_name>
+		<Found_in>Sanjay Gandhi National Park</Found_in>
+		<Other_names>Kunyit, Haridra, Haldi, Halada, Manjal, Zirsood, terre merite, Holdi, Indian Saffron, curcuma, Pasapu, Arishina are the other related names used for the Turmeric Kunyit, Haridra, Haldi, Halada, Manjal, Zirsood, terre merite, Holdi, Indian Saffron, curcuma, Pasapu, Arishina are the other related names used for the Turmeric </Other_names>
+		<Description>The plant of Turmeric is a herbaceous perennial, which is 60 -90 cm high. It has a short stem. It has large leaves oblong and up to turmeric-plantone meter long. Flowers of the turmeric appear on a spike like the stalk. Its flowers are yellow white in colour. They are sterile and donot produce viable seed. The lamina is green above and pale green below, and is 30 -40 cm long and 8 -12 cm wide. Approximately 30 flowers are produced in a spike. Inflorescence is a central spike of 10 -15 cm in length. Its pant looks like the ginger pant.</Description>
+		<Location>It is the widely cultivated tropical plant of India, which is grown from sea level to 1200 meter MSL. It is widely grown in the Sanjay Gandhi National Park of India.</Location>
+		<Cultivation_methods>Turmeric plant is panted in the month of September to October. It grows in light black, black clayey loams, and red soils in irrigated and rainfed conditions. The rhizomes are planted 5 7 cm deep. This crop is planted by the small rhizomes with one or two buds. It is harvested after 9 -10 months of planting. The lower leaves turn yellow and fall with age. </Cultivation_methods>
+		<Medicinal_uses>It is taken as the blood purifier and is very useful in the common cold, leprosy, intermittent, affections of the liver, dropsy, inflammation and wound healing. The rhizome of the turmeric plant is highly aromatic and antiseptic. It is even used for contraception, swelling, insect stings, wounds, whooping cough, inflammation, internal injuries, pimples, injuries, as a skin tonic. Sweetened milk boiled with the turmeric is the popular remedy for cold and cough. It is given in liver ailments and jaundice.</Medicinal_uses>
+		<Other_uses>The powered rhizome of this plant is used as an condiment and as an yellow dye. Its is used to colour and flavour the foodstuff. It is used in the preparation of medicinal oils, ointments and poultice. It is even used in the cosmetics. </Other_uses>
+		<Cultural_importance>For thousand of years it has been used in the Hindu religious ceremonies. It is the common belief among the the Hindus that Turmeric improves fertility. The dry turmeric root is considered as the symbol of purity and prosperity. It is used in Indian rites and rituals. Turmeric mixed in water is poured on the God and Goddesses. The dried turmeric roots in betel leaves are given to the women during the ceremonies as they are considered as fertile and bring good luck. Turmeric power is applied on the main entrance of the Indian Houses. The priests in the temples put tilak on the forehead with the turmeric power. Married women in India has to put Sindur a vermilion paste (mixture of turmeric with camphor).</Cultural_importance>
+	</tree>
+</trees>

@@ -1,0 +1,47 @@
+﻿body {
+	
+	background-image:url('images/backgrounds/wildlife-wallpaper.jpg');
+	background-size:cover;
+}
+div {
+	width:35%;
+	 background-color:white;
+	 margin-left:auto;
+	 margin-right:auto;
+	 border-radius:50px;
+	 font-family:Papyrus;
+	 color: black;
+	 min-width:600px;
+	 
+}
+.btn {
+	
+	display:inline;
+	border:2px;
+	border-bottom:medium;
+	 border-left:medium;
+	 background-color: gainsboro;
+	 padding:1px;
+	 text-decoration:none;
+	 color: black;
+	 height:23px;
+	 text-align:center;
+	 font-family:Papyrus;
+}
+a:focus {
+	 background-color: lightsteelblue;
+	 border-color:black;
+	 border:1px;
+	 border-style:solid;
+}
+.birthdate {
+	font-family:Papyrus; }
+}
+td {
+	width:200px;
+}
+td a {
+	width:200px;
+}
+
+
